@@ -1,0 +1,108 @@
+{
+    "version":  "1.0.0",
+    "rss":  "",
+    "servers":  [
+                    {
+                        "id":  "churworld",
+                        "name":  "ChurWorld",
+                        "description":  "ChurWorld Fabric Client",
+                        "icon":  "",
+                        "version":  "1.0.0",
+                        "address":  "play.chur.kr",
+                        "minecraftVersion":  "1.21.4",
+                        "mainServer":  true,
+                        "autoconnect":  true,
+                        "javaOptions":  {
+                                            "supported":  "\u003e=21",
+                                            "suggestedMajor":  21,
+                                            "ram":  {
+                                                        "recommended":  4096,
+                                                        "minimum":  2048
+                                                    }
+                                        },
+                        "modules":  [
+                                        {
+                                            "id":  "net.fabricmc:fabric-loader:0.16.10",
+                                            "name":  "Fabric Loader",
+                                            "type":  "Fabric",
+                                            "required":  true,
+                                            "subModules":  [
+
+                                                           ]
+                                        },
+                                        {
+                                            "id":  "emotecraft-fabric-for-MC1.21.4-2.5.8",
+                                            "name":  "emotecraft-fabric-for-MC1.21.4-2.5.8",
+                                            "type":  "FabricMod",
+                                            "required":  true,
+                                            "artifact":  {
+                                                             "size":  1259819,
+                                                             "MD5":  "ecbcffd1aa9d83847e00da62fc45d9b3",
+                                                             "path":  "emotecraft-fabric-for-MC1.21.4-2.5.8.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/emotecraft-fabric-for-MC1.21.4-2.5.8.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "fabric-api-0.119.4+1.21.4",
+                                            "name":  "fabric-api-0.119.4+1.21.4",
+                                            "type":  "FabricMod",
+                                            "required":  true,
+                                            "artifact":  {
+                                                             "size":  2149128,
+                                                             "MD5":  "128a8d042180e7c92567342e21a21a6d",
+                                                             "path":  "fabric-api-0.119.4+1.21.4.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/fabric-api-0.119.4%2B1.21.4.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "hybridshop-fabric-client-1.0.23",
+                                            "name":  "hybridshop-fabric-client-1.0.23",
+                                            "type":  "FabricMod",
+                                            "required":  true,
+                                            "artifact":  {
+                                                             "size":  4541267,
+                                                             "MD5":  "38004245fca0d5b0c10bf7d72286da7e",
+                                                             "path":  "hybridshop-fabric-client-1.0.23.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridshop-fabric-client-1.0.23.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "iris-fabric-1.8.8+mc1.21.4",
+                                            "name":  "iris-fabric-1.8.8+mc1.21.4",
+                                            "type":  "FabricMod",
+                                            "required":  true,
+                                            "artifact":  {
+                                                             "size":  2682702,
+                                                             "MD5":  "59d373e4874efbcb8fb426bdefa588d9",
+                                                             "path":  "iris-fabric-1.8.8+mc1.21.4.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/iris-fabric-1.8.8%2Bmc1.21.4.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "lifecore-fishing-client-0.2.13",
+                                            "name":  "lifecore-fishing-client-0.2.13",
+                                            "type":  "FabricMod",
+                                            "required":  true,
+                                            "artifact":  {
+                                                             "size":  3536354,
+                                                             "MD5":  "8c9ea21d5504b919408bbf100dfbb4a7",
+                                                             "path":  "lifecore-fishing-client-0.2.13.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifecore-fishing-client-0.2.13.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "sodium-fabric-0.6.13+mc1.21.4",
+                                            "name":  "sodium-fabric-0.6.13+mc1.21.4",
+                                            "type":  "FabricMod",
+                                            "required":  true,
+                                            "artifact":  {
+                                                             "size":  1306799,
+                                                             "MD5":  "28922a78d1876ee062e3265f10abcc46",
+                                                             "path":  "sodium-fabric-0.6.13+mc1.21.4.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/sodium-fabric-0.6.13%2Bmc1.21.4.jar"
+                                                         }
+                                        }
+                                    ]
+                    }
+                ]
+}
