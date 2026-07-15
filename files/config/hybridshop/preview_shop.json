@@ -1,0 +1,11 @@
+{
+  "shopId": "preview",
+  "title": "생활 상점",
+  "balance": 245680,
+  "cashBalance": 0,
+  "coinBalance": 0,
+  "currencyName": "money",
+  "message": "",
+  "success": true,
+  "items": []
+}

@@ -35,7 +35,7 @@
                                                                    "type":  "VersionManifest",
                                                                    "artifact":  {
                                                                                     "size":  2859,
-                                                                                    "MD5":  "6f3f6a39d81c7b7dca803ec2f870d76b",
+                                                                                    "MD5":  "f798e1a4264b61057aef373471d14076",
                                                                                     "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/versions/1.21.4-fabric-0.16.10/1.21.4-fabric-0.16.10.json"
                                                                                 }
                                                                },
@@ -134,6 +134,17 @@
                                                          }
                                         },
                                         {
+                                            "id":  "churworld.mods:hybridcodi-fabric-client-0.1.0:1.0.0@jar",
+                                            "name":  "hybridcodi-fabric-client-0.1.0",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  9042444,
+                                                             "MD5":  "55342242c038988b3c6fbf492f4eff10",
+                                                             "path":  "hybridcodi-fabric-client-0.1.0.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridcodi-fabric-client-0.1.0.jar"
+                                                         }
+                                        },
+                                        {
                                             "id":  "churworld.mods:hybridshop-fabric-client-1.0.23:1.0.0@jar",
                                             "name":  "hybridshop-fabric-client-1.0.23",
                                             "type":  "FabricMod",
@@ -175,6 +186,413 @@
                                                              "MD5":  "28922a78d1876ee062e3265f10abcc46",
                                                              "path":  "sodium-fabric-0.6.13+mc1.21.4.jar",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/sodium-fabric-0.6.13%2Bmc1.21.4.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "churworld.mods:talking-heads-1.1.3-1.21.4-fabric:1.0.0@jar",
+                                            "name":  "talking-heads-1.1.3-1.21.4-fabric",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  289843,
+                                                             "MD5":  "9bc672e79e764898e9d54ae0b95a8432",
+                                                             "path":  "talking-heads-1.1.3+1.21.4+fabric.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/talking-heads-1.1.3%2B1.21.4%2Bfabric.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "churworld.mods:voicechat-fabric-1.21.4-2.6.20:1.0.0@jar",
+                                            "name":  "voicechat-fabric-1.21.4-2.6.20",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  5369121,
+                                                             "MD5":  "52bf5af4d6bc570554ff2c88c05e5829",
+                                                             "path":  "voicechat-fabric-1.21.4-2.6.20.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/voicechat-fabric-1.21.4-2.6.20.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "options.txt",
+                                            "name":  "options.txt",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  24,
+                                                             "MD5":  "4e3b5e8cb929e7c34bbda63c649e5635",
+                                                             "path":  "options.txt",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/root/options.txt"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_emotecraft.json",
+                                            "name":  "config/emotecraft.json",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  891,
+                                                             "MD5":  "8e7ac58cbec8ea88c6cf4adc45165576",
+                                                             "path":  "config/emotecraft.json",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/emotecraft.json"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_EssentialCommands.properties",
+                                            "name":  "config/EssentialCommands.properties",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  2165,
+                                                             "MD5":  "c89168928303f303939929be09884d48",
+                                                             "path":  "config/EssentialCommands.properties",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/EssentialCommands.properties"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_essentialcommands_rules.txt",
+                                            "name":  "config/essentialcommands/rules.txt",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  0,
+                                                             "MD5":  "d41d8cd98f00b204e9800998ecf8427e",
+                                                             "path":  "config/essentialcommands/rules.txt",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/essentialcommands/rules.txt"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_fabric_indigo-renderer.properties",
+                                            "name":  "config/fabric/indigo-renderer.properties",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  290,
+                                                             "MD5":  "8df7ffb81b4c57bb2cb0a85ff35ba4d1",
+                                                             "path":  "config/fabric/indigo-renderer.properties",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/fabric/indigo-renderer.properties"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_hybridshop_preview_shop.json",
+                                            "name":  "config/hybridshop/preview_shop.json",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  193,
+                                                             "MD5":  "57dc1f698674c66e8fa127339a734955",
+                                                             "path":  "config/hybridshop/preview_shop.json",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/hybridshop/preview_shop.json"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_hybridshop_shop_layout.backup-v16.json",
+                                            "name":  "config/hybridshop/shop_layout.backup-v16.json",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  4198,
+                                                             "MD5":  "e00bd65c896a3f20a49089446bc0f295",
+                                                             "path":  "config/hybridshop/shop_layout.backup-v16.json",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/hybridshop/shop_layout.backup-v16.json"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_hybridshop_shop_layout.json",
+                                            "name":  "config/hybridshop/shop_layout.json",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  4107,
+                                                             "MD5":  "4806a957d1ca2fa51ad1804f3cd5d35c",
+                                                             "path":  "config/hybridshop/shop_layout.json",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/hybridshop/shop_layout.json"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_iris.properties",
+                                            "name":  "config/iris.properties",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  297,
+                                                             "MD5":  "172a9c13f6657b75139e9e9db0d5cd0b",
+                                                             "path":  "config/iris.properties",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/iris.properties"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_iris-excluded.json",
+                                            "name":  "config/iris-excluded.json",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  31,
+                                                             "MD5":  "670592b1394f12ab96d8432f14ac8dd9",
+                                                             "path":  "config/iris-excluded.json",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/iris-excluded.json"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_midnight_mafia.json",
+                                            "name":  "config/midnight_mafia.json",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  714,
+                                                             "MD5":  "309471f43eebac39d9be5a97b97e91aa",
+                                                             "path":  "config/midnight_mafia.json",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/midnight_mafia.json"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_pal.properties",
+                                            "name":  "config/pal.properties",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  215,
+                                                             "MD5":  "5d9705c0ff83d73cab1220e000543711",
+                                                             "path":  "config/pal.properties",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/pal.properties"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_sodium-fingerprint.json",
+                                            "name":  "config/sodium-fingerprint.json",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  427,
+                                                             "MD5":  "74c757bcaaffaf55e214a8ab2a8b115f",
+                                                             "path":  "config/sodium-fingerprint.json",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/sodium-fingerprint.json"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_sodium-mixins.properties",
+                                            "name":  "config/sodium-mixins.properties",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  258,
+                                                             "MD5":  "a5b6a84e034d60be869ae33f2dba4e2b",
+                                                             "path":  "config/sodium-mixins.properties",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/sodium-mixins.properties"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_sodium-options.json",
+                                            "name":  "config/sodium-options.json",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  685,
+                                                             "MD5":  "aa01ef19d7217fbb88ed03f737384c66",
+                                                             "path":  "config/sodium-options.json",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/sodium-options.json"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_talkingheads.json5",
+                                            "name":  "config/talkingheads.json5",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  218,
+                                                             "MD5":  "92981b0cc119348102b15d604b88740b",
+                                                             "path":  "config/talkingheads.json5",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/talkingheads.json5"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_voicechat_category-volumes.properties",
+                                            "name":  "config/voicechat/category-volumes.properties",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  46,
+                                                             "MD5":  "47731f53ffef4a8a57c766a8091a5651",
+                                                             "path":  "config/voicechat/category-volumes.properties",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/voicechat/category-volumes.properties"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_voicechat_player-volumes.properties",
+                                            "name":  "config/voicechat/player-volumes.properties",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  44,
+                                                             "MD5":  "881435f0ba9a0f1af1d2082d1298dcc4",
+                                                             "path":  "config/voicechat/player-volumes.properties",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/voicechat/player-volumes.properties"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_voicechat_translations.properties",
+                                            "name":  "config/voicechat/translations.properties",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  1182,
+                                                             "MD5":  "4af29bbbf5267fe4298e80c2e6ebca63",
+                                                             "path":  "config/voicechat/translations.properties",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/voicechat/translations.properties"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_voicechat_username-cache.json",
+                                            "name":  "config/voicechat/username-cache.json",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  2,
+                                                             "MD5":  "99914b932bd37a50b983c5e7c90ae93b",
+                                                             "path":  "config/voicechat/username-cache.json",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/voicechat/username-cache.json"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_voicechat_voicechat-client.properties",
+                                            "name":  "config/voicechat/voicechat-client.properties",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  5121,
+                                                             "MD5":  "20324bb2be265aa38d248488ceaad745",
+                                                             "path":  "config/voicechat/voicechat-client.properties",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/voicechat/voicechat-client.properties"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_voicechat_voicechat-server.properties",
+                                            "name":  "config/voicechat/voicechat-server.properties",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  2830,
+                                                             "MD5":  "f07214e67cae0f6010bfa88977d8dbf0",
+                                                             "path":  "config/voicechat/voicechat-server.properties",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/voicechat/voicechat-server.properties"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "shaderpacks_BSL_v10.1.3.zip",
+                                            "name":  "shaderpacks/BSL_v10.1.3.zip",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  1127026,
+                                                             "MD5":  "324f09c3d1c736576a09782ff75c2f68",
+                                                             "path":  "shaderpacks/BSL_v10.1.3.zip",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/shaderpacks/BSL_v10.1.3.zip"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "emotes_CaramellDansen.emotecraft",
+                                            "name":  "emotes/CaramellDansen.emotecraft",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  59199,
+                                                             "MD5":  "328079633768a1bcfe1fe978222c8510",
+                                                             "path":  "emotes/CaramellDansen.emotecraft",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/CaramellDansen.emotecraft"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "emotes_CaramellDansen.json",
+                                            "name":  "emotes/CaramellDansen.json",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  15582,
+                                                             "MD5":  "ea06dc04eaabbdaa8c180f5888ebaf68",
+                                                             "path":  "emotes/CaramellDansen.json",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/CaramellDansen.json"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "emotes_CaramellDansen.png",
+                                            "name":  "emotes/CaramellDansen.png",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  57520,
+                                                             "MD5":  "afa3a7df630585aede608aa7c0efca4b",
+                                                             "path":  "emotes/CaramellDansen.png",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/CaramellDansen.png"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "emotes_Cheer.emotecraft",
+                                            "name":  "emotes/Cheer.emotecraft",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  52773,
+                                                             "MD5":  "8f6afccbde1bd57b4929a2cfd6b26995",
+                                                             "path":  "emotes/Cheer.emotecraft",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Cheer.emotecraft"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "emotes_Cheer.json",
+                                            "name":  "emotes/Cheer.json",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  15582,
+                                                             "MD5":  "cebbac97c1ec85cff3ae8cfc7b7b0dd8",
+                                                             "path":  "emotes/Cheer.json",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Cheer.json"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "emotes_Cheer.png",
+                                            "name":  "emotes/Cheer.png",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  51124,
+                                                             "MD5":  "57dac0702b8aa8a31eb063823d8ada42",
+                                                             "path":  "emotes/Cheer.png",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Cheer.png"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "emotes_Cheering.emotecraft",
+                                            "name":  "emotes/Cheering.emotecraft",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  63251,
+                                                             "MD5":  "e7afa9d4df40e9ddbd60f4cfe9fb23b9",
+                                                             "path":  "emotes/Cheering.emotecraft",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Cheering.emotecraft"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "emotes_Cheering.json",
+                                            "name":  "emotes/Cheering.json",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  31277,
+                                                             "MD5":  "bb241c32ed0943407a571df03fc9ca75",
+                                                             "path":  "emotes/Cheering.json",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Cheering.json"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "emotes_Cheering.png",
+                                            "name":  "emotes/Cheering.png",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  60477,
+                                                             "MD5":  "29f224d127b23068afa175394076ac3e",
+                                                             "path":  "emotes/Cheering.png",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Cheering.png"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "emotes_Rat Dance 1.2.emotecraft",
+                                            "name":  "emotes/Rat Dance 1.2.emotecraft",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  76127,
+                                                             "MD5":  "1010b1795ff3c4ebdae4b7e87681a220",
+                                                             "path":  "emotes/Rat Dance 1.2.emotecraft",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Rat%20Dance%201.2.emotecraft"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "emotes_Rat Dance 1.2.json",
+                                            "name":  "emotes/Rat Dance 1.2.json",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  52491,
+                                                             "MD5":  "84638bb575d9b40a4ebc654d08ef9ba1",
+                                                             "path":  "emotes/Rat Dance 1.2.json",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Rat%20Dance%201.2.json"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "emotes_Rat Dance 1.2.png",
+                                            "name":  "emotes/Rat Dance 1.2.png",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  71805,
+                                                             "MD5":  "7878779b596812f879bb30c193b5569f",
+                                                             "path":  "emotes/Rat Dance 1.2.png",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Rat%20Dance%201.2.png"
                                                          }
                                         }
                                     ]

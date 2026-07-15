@@ -1,0 +1,31 @@
+{
+  "minPlayers": 6,
+  "maxPlayers": 15,
+  "lobbyCountdownSeconds": 30,
+  "autoStart": true,
+  "debugLogging": false,
+  "afkTimeoutSeconds": 120,
+  "afkWarningSeconds": 30,
+  "phaseDurations": {
+    "introSeconds": 12,
+    "nightSeconds": 60,
+    "morningSeconds": 15,
+    "discussionSeconds": 120,
+    "voteSeconds": 30,
+    "defenseSeconds": 20,
+    "finalVoteSeconds": 18,
+    "executionSeconds": 12,
+    "gameEndSeconds": 20
+  },
+  "mafiaKillCutsceneLocation": {
+    "schemaVersion": 1,
+    "world": "minecraft:overworld",
+    "x": 38.10633773902955,
+    "y": -60.0,
+    "z": 119.82016636719179,
+    "yaw": 150.0015,
+    "pitch": 3.4499896,
+    "savedBy": "Yeotu",
+    "savedAtEpochMillis": 1778689563949
+  }
+}
