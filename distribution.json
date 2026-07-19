@@ -138,8 +138,8 @@
                                             "name":  "hybridcodi-fabric-client-0.1.0",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  9043541,
-                                                             "MD5":  "296c6fe680ad11be9d1b34cc92c323be",
+                                                             "size":  9043829,
+                                                             "MD5":  "907f118a10b3946e1776f30824dc259e",
                                                              "path":  "hybridcodi-fabric-client-0.1.0.jar",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridcodi-fabric-client-0.1.0.jar"
                                                          }
@@ -230,6 +230,28 @@
                                                              "MD5":  "52bf5af4d6bc570554ff2c88c05e5829",
                                                              "path":  "voicechat-fabric-1.21.4-2.6.20.jar",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/voicechat-fabric-1.21.4-2.6.20.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "churworld.mods:xaerominimap-fabric-1.21.4-26.4.2:1.0.0@jar",
+                                            "name":  "xaerominimap-fabric-1.21.4-26.4.2",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  2221844,
+                                                             "MD5":  "4069e8a461c376f8f577150770e5b64f",
+                                                             "path":  "xaerominimap-fabric-1.21.4-26.4.2.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/xaerominimap-fabric-1.21.4-26.4.2.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "churworld.mods:xaeroworldmap-fabric-1.21.4-1.44.2:1.0.0@jar",
+                                            "name":  "xaeroworldmap-fabric-1.21.4-1.44.2",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  1442400,
+                                                             "MD5":  "5226a613f740dfa1693ea0a4badbb4b1",
+                                                             "path":  "xaeroworldmap-fabric-1.21.4-1.44.2.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/xaeroworldmap-fabric-1.21.4-1.44.2.jar"
                                                          }
                                         },
                                         {
