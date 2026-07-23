@@ -35,7 +35,7 @@
                                                                    "type":  "VersionManifest",
                                                                    "artifact":  {
                                                                                     "size":  2847,
-                                                                                    "MD5":  "18afe775ba0f7136b809872d324c19ed",
+                                                                                    "MD5":  "e3b5c3de311b741f2fb5b2318e748a41",
                                                                                     "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/versions/1.21.4-fabric-0.17.2/1.21.4-fabric-0.17.2.json"
                                                                                 }
                                                                },
@@ -138,8 +138,8 @@
                                             "name":  "hybridcodi-fabric-client-0.1.0",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  9043829,
-                                                             "MD5":  "907f118a10b3946e1776f30824dc259e",
+                                                             "size":  9044091,
+                                                             "MD5":  "c9911070ea6cc44d99477b78fa842c7e",
                                                              "path":  "hybridcodi-fabric-client-0.1.0.jar",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridcodi-fabric-client-0.1.0.jar"
                                                          }
@@ -149,8 +149,8 @@
                                             "name":  "hybridhud-fabric-client-1.0.0",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  33214,
-                                                             "MD5":  "c4c86bad6714bf2228bda25ea5deab38",
+                                                             "size":  33363,
+                                                             "MD5":  "66d86ec33ca28eb3c560953deeaf517f",
                                                              "path":  "hybridhud-fabric-client-1.0.0.jar",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridhud-fabric-client-1.0.0.jar"
                                                          }
@@ -252,6 +252,17 @@
                                                              "MD5":  "5226a613f740dfa1693ea0a4badbb4b1",
                                                              "path":  "xaeroworldmap-fabric-1.21.4-1.44.2.jar",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/xaeroworldmap-fabric-1.21.4-1.44.2.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_xaerohud.txt",
+                                            "name":  "config/xaerohud.txt",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  123,
+                                                             "MD5":  "0fd50ac51edf818819a6122232622520",
+                                                             "path":  "config/xaerohud.txt",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/xaerohud.txt"
                                                          }
                                         },
                                         {
