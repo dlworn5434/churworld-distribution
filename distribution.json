@@ -149,8 +149,8 @@
                                             "name":  "hybridhud-fabric-client-1.0.0",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  33363,
-                                                             "MD5":  "66d86ec33ca28eb3c560953deeaf517f",
+                                                             "size":  34708,
+                                                             "MD5":  "305ce0f86093ff6c68a0c5b52f94d5c5",
                                                              "path":  "hybridhud-fabric-client-1.0.0.jar",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridhud-fabric-client-1.0.0.jar"
                                                          }
