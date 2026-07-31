@@ -35,7 +35,7 @@
                                                                    "type":  "VersionManifest",
                                                                    "artifact":  {
                                                                                     "size":  2847,
-                                                                                    "MD5":  "c7734e54d62c7fe55e443f2245db566e",
+                                                                                    "MD5":  "33c3d70867113a59eff7c748726cdd33",
                                                                                     "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/versions/1.21.4-fabric-0.17.2/1.21.4-fabric-0.17.2.json"
                                                                                 }
                                                                },
@@ -145,14 +145,14 @@
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:hybridhud-fabric-client-1.0.0:1.0.0@jar",
-                                            "name":  "hybridhud-fabric-client-1.0.0",
+                                            "id":  "churworld.mods:hybridhud-fabric-client-1.1.0:1.0.0@jar",
+                                            "name":  "hybridhud-fabric-client-1.1.0",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  34708,
-                                                             "MD5":  "305ce0f86093ff6c68a0c5b52f94d5c5",
-                                                             "path":  "hybridhud-fabric-client-1.0.0.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridhud-fabric-client-1.0.0.jar"
+                                                             "size":  214376,
+                                                             "MD5":  "13cf0fb12f9439201bc47dc98dfca7a9",
+                                                             "path":  "hybridhud-fabric-client-1.1.0.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridhud-fabric-client-1.1.0.jar"
                                                          }
                                         },
                                         {
