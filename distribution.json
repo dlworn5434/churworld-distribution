@@ -138,8 +138,8 @@
                                             "name":  "hybridcodi-fabric-client-0.1.0",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  9048592,
-                                                             "MD5":  "57d68e41d76a3fe8baa72739a91e98fc",
+                                                             "size":  9048491,
+                                                             "MD5":  "4bd45654fad760cf2354f55993c58b1f",
                                                              "path":  "hybridcodi-fabric-client-0.1.0.jar",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridcodi-fabric-client-0.1.0.jar"
                                                          }
