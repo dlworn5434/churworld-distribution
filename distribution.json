@@ -35,7 +35,7 @@
                                                                    "type":  "VersionManifest",
                                                                    "artifact":  {
                                                                                     "size":  2847,
-                                                                                    "MD5":  "e8de52d618c5cc9c8bcc8c77f278881a",
+                                                                                    "MD5":  "26d9b0d63bb91e123c0a44f79e6489aa",
                                                                                     "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/versions/1.21.4-fabric-0.17.2/1.21.4-fabric-0.17.2.json"
                                                                                 }
                                                                },
@@ -189,14 +189,14 @@
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:lifecore-fishing-client-0.2.16:1.0.0@jar",
-                                            "name":  "lifecore-fishing-client-0.2.16",
+                                            "id":  "churworld.mods:lifecore-fishing-client-0.2.20:1.0.0@jar",
+                                            "name":  "lifecore-fishing-client-0.2.20",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  3542798,
-                                                             "MD5":  "159da848a7dc4645a2925ea875ecafbd",
-                                                             "path":  "lifecore-fishing-client-0.2.16.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifecore-fishing-client-0.2.16.jar"
+                                                             "size":  3545721,
+                                                             "MD5":  "17a533a159da50bd2cd622a6c7060860",
+                                                             "path":  "lifecore-fishing-client-0.2.20.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifecore-fishing-client-0.2.20.jar"
                                                          }
                                         },
                                         {
