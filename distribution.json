@@ -35,7 +35,7 @@
                                                                    "type":  "VersionManifest",
                                                                    "artifact":  {
                                                                                     "size":  2847,
-                                                                                    "MD5":  "26d9b0d63bb91e123c0a44f79e6489aa",
+                                                                                    "MD5":  "3d7f2c4458bfcac0397fb17736da7d80",
                                                                                     "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/versions/1.21.4-fabric-0.17.2/1.21.4-fabric-0.17.2.json"
                                                                                 }
                                                                },
@@ -131,6 +131,17 @@
                                                              "MD5":  "128a8d042180e7c92567342e21a21a6d",
                                                              "path":  "fabric-api-0.119.4+1.21.4.jar",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/fabric-api-0.119.4%2B1.21.4.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "churworld.mods:hybridbuild-fabric-client-0.2.0:1.0.0@jar",
+                                            "name":  "hybridbuild-fabric-client-0.2.0",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  1815863,
+                                                             "MD5":  "cbde919b1002c4332036af81092a2b84",
+                                                             "path":  "hybridbuild-fabric-client-0.2.0.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridbuild-fabric-client-0.2.0.jar"
                                                          }
                                         },
                                         {
