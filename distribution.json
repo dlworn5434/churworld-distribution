@@ -134,17 +134,6 @@
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:hybridbuild-fabric-client-0.2.0:1.0.0@jar",
-                                            "name":  "hybridbuild-fabric-client-0.2.0",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  1815863,
-                                                             "MD5":  "cbde919b1002c4332036af81092a2b84",
-                                                             "path":  "hybridbuild-fabric-client-0.2.0.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridbuild-fabric-client-0.2.0.jar"
-                                                         }
-                                        },
-                                        {
                                             "id":  "churworld.mods:hybridcodi-fabric-client-0.1.0:1.0.0@jar",
                                             "name":  "hybridcodi-fabric-client-0.1.0",
                                             "type":  "FabricMod",
