@@ -1,2 +1,0 @@
-version:3955
-guiScale:2
