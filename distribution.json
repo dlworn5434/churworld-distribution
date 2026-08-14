@@ -35,7 +35,7 @@
                                                                    "type":  "VersionManifest",
                                                                    "artifact":  {
                                                                                     "size":  2847,
-                                                                                    "MD5":  "f5af52dffc4ff984a1d1bf9c461bbd7a",
+                                                                                    "MD5":  "352562c9ec04c60af420fba54503afd4",
                                                                                     "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/versions/1.21.4-fabric-0.17.2/1.21.4-fabric-0.17.2.json"
                                                                                 }
                                                                },
@@ -110,6 +110,17 @@
                                                                                 }
                                                                }
                                                            ]
+                                        },
+                                        {
+                                            "id":  "churworld.mods:churcamera-fabric-client-0.3.2:1.0.0@jar",
+                                            "name":  "churcamera-fabric-client-0.3.2",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  172683,
+                                                             "MD5":  "623cf591dcc59f0585ccf852d2936f16",
+                                                             "path":  "churcamera-fabric-client-0.3.2.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churcamera-fabric-client-0.3.2.jar"
+                                                         }
                                         },
                                         {
                                             "id":  "churworld.mods:emotecraft-fabric-for-mc1.21.4-2.5.8:1.0.0@jar",
