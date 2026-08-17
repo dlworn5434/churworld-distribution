@@ -35,7 +35,7 @@
                                                                    "type":  "VersionManifest",
                                                                    "artifact":  {
                                                                                     "size":  2847,
-                                                                                    "MD5":  "352562c9ec04c60af420fba54503afd4",
+                                                                                    "MD5":  "4ee575f6565a15a2f33f11dfe8f74bef",
                                                                                     "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/versions/1.21.4-fabric-0.17.2/1.21.4-fabric-0.17.2.json"
                                                                                 }
                                                                },
@@ -123,6 +123,17 @@
                                                          }
                                         },
                                         {
+                                            "id":  "churworld.mods:cloth-config-17.0.144-fabric:1.0.0@jar",
+                                            "name":  "cloth-config-17.0.144-fabric",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  1152857,
+                                                             "MD5":  "07b7d5bc15bdc7387cf8890d0c460b54",
+                                                             "path":  "cloth-config-17.0.144-fabric.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/cloth-config-17.0.144-fabric.jar"
+                                                         }
+                                        },
+                                        {
                                             "id":  "churworld.mods:emotecraft-fabric-for-mc1.21.4-2.5.8:1.0.0@jar",
                                             "name":  "emotecraft-fabric-for-mc1.21.4-2.5.8",
                                             "type":  "FabricMod",
@@ -142,6 +153,17 @@
                                                              "MD5":  "128a8d042180e7c92567342e21a21a6d",
                                                              "path":  "fabric-api-0.119.4+1.21.4.jar",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/fabric-api-0.119.4%2B1.21.4.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "churworld.mods:hmi-4.3---1.21.4:1.0.0@jar",
+                                            "name":  "hmi-4.3---1.21.4",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  106701,
+                                                             "MD5":  "8ccaa129ecd2d32e9927bb026ea8f923",
+                                                             "path":  "HMI 4.3 - 1.21.4.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/HMI%204.3%20-%201.21.4.jar"
                                                          }
                                         },
                                         {
@@ -219,6 +241,28 @@
                                                              "MD5":  "17a533a159da50bd2cd622a6c7060860",
                                                              "path":  "lifecore-fishing-client-0.2.20.jar",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifecore-fishing-client-0.2.20.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "churworld.mods:modmenu-13.0.4:1.0.0@jar",
+                                            "name":  "modmenu-13.0.4",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  1050885,
+                                                             "MD5":  "79856b4ad839616c9b4318952ba44fd1",
+                                                             "path":  "modmenu-13.0.4.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/modmenu-13.0.4.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "churworld.mods:placeholder-api-2.5.2-1.21.3:1.0.0@jar",
+                                            "name":  "placeholder-api-2.5.2-1.21.3",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  237288,
+                                                             "MD5":  "80b2dea3d99621d2b76db30a0582665d",
+                                                             "path":  "placeholder-api-2.5.2+1.21.3.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/placeholder-api-2.5.2%2B1.21.3.jar"
                                                          }
                                         },
                                         {
