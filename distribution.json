@@ -35,7 +35,7 @@
                                                                    "type":  "VersionManifest",
                                                                    "artifact":  {
                                                                                     "size":  2847,
-                                                                                    "MD5":  "4ee575f6565a15a2f33f11dfe8f74bef",
+                                                                                    "MD5":  "edff089fd35cb7fbc129813d177ed754",
                                                                                     "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/versions/1.21.4-fabric-0.17.2/1.21.4-fabric-0.17.2.json"
                                                                                 }
                                                                },
@@ -112,6 +112,17 @@
                                                            ]
                                         },
                                         {
+                                            "id":  "churworld.mods:balm-fabric-1.21.4-21.4.41:1.0.0@jar",
+                                            "name":  "balm-fabric-1.21.4-21.4.41",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  599615,
+                                                             "MD5":  "111978e3b35ab07a86bcb8bde78d6c1c",
+                                                             "path":  "balm-fabric-1.21.4-21.4.41.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/balm-fabric-1.21.4-21.4.41.jar"
+                                                         }
+                                        },
+                                        {
                                             "id":  "churworld.mods:churcamera-fabric-client-0.3.2:1.0.0@jar",
                                             "name":  "churcamera-fabric-client-0.3.2",
                                             "type":  "FabricMod",
@@ -131,6 +142,17 @@
                                                              "MD5":  "07b7d5bc15bdc7387cf8890d0c460b54",
                                                              "path":  "cloth-config-17.0.144-fabric.jar",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/cloth-config-17.0.144-fabric.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "churworld.mods:defaultoptions-fabric-1.21.4-21.4.6:1.0.0@jar",
+                                            "name":  "defaultoptions-fabric-1.21.4-21.4.6",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  98235,
+                                                             "MD5":  "9ed0bb66374791980aa017b8e2d2d240",
+                                                             "path":  "defaultoptions-fabric-1.21.4-21.4.6.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/defaultoptions-fabric-1.21.4-21.4.6.jar"
                                                          }
                                         },
                                         {
@@ -189,14 +211,14 @@
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:hybridhud-fabric-client-1.1.9:1.0.0@jar",
-                                            "name":  "hybridhud-fabric-client-1.1.9",
+                                            "id":  "churworld.mods:hybridhud-fabric-client-1.2.1:1.0.0@jar",
+                                            "name":  "hybridhud-fabric-client-1.2.1",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  226475,
-                                                             "MD5":  "503f47764c933bed6555fcfea1a39236",
-                                                             "path":  "hybridhud-fabric-client-1.1.9.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridhud-fabric-client-1.1.9.jar"
+                                                             "size":  226720,
+                                                             "MD5":  "7f6f8de76421d72239e28a2f9533e853",
+                                                             "path":  "hybridhud-fabric-client-1.2.1.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridhud-fabric-client-1.2.1.jar"
                                                          }
                                         },
                                         {
@@ -233,14 +255,14 @@
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:lifecore-fishing-client-0.2.20:1.0.0@jar",
-                                            "name":  "lifecore-fishing-client-0.2.20",
+                                            "id":  "churworld.mods:lifecore-fishing-client-0.2.21:1.0.0@jar",
+                                            "name":  "lifecore-fishing-client-0.2.21",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  3545721,
-                                                             "MD5":  "17a533a159da50bd2cd622a6c7060860",
-                                                             "path":  "lifecore-fishing-client-0.2.20.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifecore-fishing-client-0.2.20.jar"
+                                                             "size":  3546442,
+                                                             "MD5":  "e6094558ccc1eae0ca4bf6cace3a266b",
+                                                             "path":  "lifecore-fishing-client-0.2.21.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifecore-fishing-client-0.2.21.jar"
                                                          }
                                         },
                                         {
@@ -318,6 +340,17 @@
                                                              "MD5":  "5226a613f740dfa1693ea0a4badbb4b1",
                                                              "path":  "xaeroworldmap-fabric-1.21.4-1.44.2.jar",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/xaeroworldmap-fabric-1.21.4-1.44.2.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_defaultoptions_keybindings.txt",
+                                            "name":  "config/defaultoptions/keybindings.txt",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  58,
+                                                             "MD5":  "f9a80fe6607c0fa09d2a2ae4d624abcd",
+                                                             "path":  "config/defaultoptions/keybindings.txt",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/defaultoptions/keybindings.txt"
                                                          }
                                         },
                                         {
