@@ -123,14 +123,14 @@
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:churcamera-fabric-client-0.3.2:1.0.0@jar",
-                                            "name":  "churcamera-fabric-client-0.3.2",
+                                            "id":  "churworld.mods:churcamera-fabric-client-0.3.3:1.0.0@jar",
+                                            "name":  "churcamera-fabric-client-0.3.3",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  172683,
-                                                             "MD5":  "623cf591dcc59f0585ccf852d2936f16",
-                                                             "path":  "churcamera-fabric-client-0.3.2.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churcamera-fabric-client-0.3.2.jar"
+                                                             "size":  172977,
+                                                             "MD5":  "06efc6966fb446c8c06d8f7b27858c30",
+                                                             "path":  "churcamera-fabric-client-0.3.3.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churcamera-fabric-client-0.3.3.jar"
                                                          }
                                         },
                                         {
@@ -347,10 +347,21 @@
                                             "name":  "config/defaultoptions/keybindings.txt",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  58,
-                                                             "MD5":  "f9a80fe6607c0fa09d2a2ae4d624abcd",
+                                                             "size":  54,
+                                                             "MD5":  "03602ac23bfa39d09ef93bceba907ded",
                                                              "path":  "config/defaultoptions/keybindings.txt",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/defaultoptions/keybindings.txt"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_defaultoptions_options.txt",
+                                            "name":  "config/defaultoptions/options.txt",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  46,
+                                                             "MD5":  "0aea2becb189cd05924667ff75b742de",
+                                                             "path":  "config/defaultoptions/options.txt",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/defaultoptions/options.txt"
                                                          }
                                         },
                                         {
