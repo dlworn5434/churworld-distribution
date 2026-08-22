@@ -35,7 +35,7 @@
                                                                    "type":  "VersionManifest",
                                                                    "artifact":  {
                                                                                     "size":  2847,
-                                                                                    "MD5":  "edff089fd35cb7fbc129813d177ed754",
+                                                                                    "MD5":  "28dad0c3b23f04045e0f8df92aa1d610",
                                                                                     "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/versions/1.21.4-fabric-0.17.2/1.21.4-fabric-0.17.2.json"
                                                                                 }
                                                                },
@@ -175,17 +175,6 @@
                                                              "MD5":  "128a8d042180e7c92567342e21a21a6d",
                                                              "path":  "fabric-api-0.119.4+1.21.4.jar",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/fabric-api-0.119.4%2B1.21.4.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:hmi-4.3---1.21.4:1.0.0@jar",
-                                            "name":  "hmi-4.3---1.21.4",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  106701,
-                                                             "MD5":  "8ccaa129ecd2d32e9927bb026ea8f923",
-                                                             "path":  "HMI 4.3 - 1.21.4.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/HMI%204.3%20-%201.21.4.jar"
                                                          }
                                         },
                                         {
