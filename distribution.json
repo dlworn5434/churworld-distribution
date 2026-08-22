@@ -35,7 +35,7 @@
                                                                    "type":  "VersionManifest",
                                                                    "artifact":  {
                                                                                     "size":  2847,
-                                                                                    "MD5":  "28dad0c3b23f04045e0f8df92aa1d610",
+                                                                                    "MD5":  "36d7e5a8311b5b8d6de501a7fb86ac75",
                                                                                     "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/versions/1.21.4-fabric-0.17.2/1.21.4-fabric-0.17.2.json"
                                                                                 }
                                                                },
@@ -131,6 +131,17 @@
                                                              "MD5":  "06efc6966fb446c8c06d8f7b27858c30",
                                                              "path":  "churcamera-fabric-client-0.3.3.jar",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churcamera-fabric-client-0.3.3.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "churworld.mods:churuechoes-paper-plugin-0.15.0:1.0.0@jar",
+                                            "name":  "churuechoes-paper-plugin-0.15.0",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  292270,
+                                                             "MD5":  "a1627ea39cd6a0931295112a9d267e9a",
+                                                             "path":  "churuechoes-paper-plugin-0.15.0.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churuechoes-paper-plugin-0.15.0.jar"
                                                          }
                                         },
                                         {
