@@ -134,6 +134,17 @@
                                                          }
                                         },
                                         {
+                                            "id":  "churworld.mods:churuechoes-fabric-client-0.15.0:1.0.0@jar",
+                                            "name":  "churuechoes-fabric-client-0.15.0",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  3860486,
+                                                             "MD5":  "23ccf961468ad1724cf3d10a2448f2b0",
+                                                             "path":  "churuechoes-fabric-client-0.15.0.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churuechoes-fabric-client-0.15.0.jar"
+                                                         }
+                                        },
+                                        {
                                             "id":  "churworld.mods:churuechoes-paper-plugin-0.15.0:1.0.0@jar",
                                             "name":  "churuechoes-paper-plugin-0.15.0",
                                             "type":  "FabricMod",
