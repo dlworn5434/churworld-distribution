@@ -35,7 +35,7 @@
                                                                    "type":  "VersionManifest",
                                                                    "artifact":  {
                                                                                     "size":  2847,
-                                                                                    "MD5":  "a3697a590049bb3ba43ff497c224009c",
+                                                                                    "MD5":  "a4abe4c18c0ebde943e99603d99e4df3",
                                                                                     "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/versions/1.21.4-fabric-0.17.2/1.21.4-fabric-0.17.2.json"
                                                                                 }
                                                                },
@@ -266,14 +266,14 @@
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:lifetower-fabric-client-0.4.21:1.0.0@jar",
-                                            "name":  "lifetower-fabric-client-0.4.21",
+                                            "id":  "churworld.mods:lifetower-fabric-client-0.4.37:1.0.0@jar",
+                                            "name":  "lifetower-fabric-client-0.4.37",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  23446553,
-                                                             "MD5":  "dd712bfe92f90d8afe719a154f92e826",
-                                                             "path":  "lifetower-fabric-client-0.4.21.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifetower-fabric-client-0.4.21.jar"
+                                                             "size":  23504169,
+                                                             "MD5":  "f5803c0025734b6bde173c9f702d8e23",
+                                                             "path":  "lifetower-fabric-client-0.4.37.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifetower-fabric-client-0.4.37.jar"
                                                          }
                                         },
                                         {
