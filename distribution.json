@@ -222,14 +222,14 @@
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:hybridevents-fabric-0.26.0:1.0.0@jar",
-                                            "name":  "hybridevents-fabric-0.26.0",
+                                            "id":  "churworld.mods:hybridevents-fabric-0.26.3:1.0.0@jar",
+                                            "name":  "hybridevents-fabric-0.26.3",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  12663148,
-                                                             "MD5":  "8c0d80f9154aa81e51e3441b4d1929ec",
-                                                             "path":  "hybridevents-fabric-0.26.0.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridevents-fabric-0.26.0.jar"
+                                                             "size":  12691613,
+                                                             "MD5":  "c3fb2e382ef16d193ec588ae8e5c19b5",
+                                                             "path":  "hybridevents-fabric-0.26.3.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridevents-fabric-0.26.3.jar"
                                                          }
                                         },
                                         {
