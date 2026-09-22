@@ -35,7 +35,7 @@
                                                                    "type":  "VersionManifest",
                                                                    "artifact":  {
                                                                                     "size":  2847,
-                                                                                    "MD5":  "d566f737e9e6100f081aacbbf4c9eb52",
+                                                                                    "MD5":  "cd64d19572cf9b517bf22357d3293f92",
                                                                                     "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/versions/1.21.4-fabric-0.17.2/1.21.4-fabric-0.17.2.json"
                                                                                 }
                                                                },
@@ -142,6 +142,17 @@
                                                              "MD5":  "a1e4cb80b2367e307d00d1e7988c4583",
                                                              "path":  "churuechoes-fabric-client-0.46.0.jar",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churuechoes-fabric-client-0.46.0.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "churworld.mods:churworld-korean-input-1.0.0:1.0.0@jar",
+                                            "name":  "churworld-korean-input-1.0.0",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  4519,
+                                                             "MD5":  "7b5f42b1f822cd45fa44f2786b3e314c",
+                                                             "path":  "churworld-korean-input-1.0.0.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churworld-korean-input-1.0.0.jar"
                                                          }
                                         },
                                         {
