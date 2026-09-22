@@ -35,7 +35,7 @@
                                                                    "type":  "VersionManifest",
                                                                    "artifact":  {
                                                                                     "size":  2847,
-                                                                                    "MD5":  "cd64d19572cf9b517bf22357d3293f92",
+                                                                                    "MD5":  "61ad447777e0b52a91db37af1ff41ccf",
                                                                                     "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/versions/1.21.4-fabric-0.17.2/1.21.4-fabric-0.17.2.json"
                                                                                 }
                                                                },
@@ -219,6 +219,17 @@
                                                              "MD5":  "00a4a6d2ed82465f58d7775dfd0f6c27",
                                                              "path":  "hybridcodi-fabric-client-0.1.9.jar",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridcodi-fabric-client-0.1.9.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "churworld.mods:hybridevents-fabric-0.26.0:1.0.0@jar",
+                                            "name":  "hybridevents-fabric-0.26.0",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  12663148,
+                                                             "MD5":  "8c0d80f9154aa81e51e3441b4d1929ec",
+                                                             "path":  "hybridevents-fabric-0.26.0.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridevents-fabric-0.26.0.jar"
                                                          }
                                         },
                                         {
