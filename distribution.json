@@ -222,14 +222,14 @@
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:hybridevents-fabric-0.26.6:1.0.0@jar",
-                                            "name":  "hybridevents-fabric-0.26.6",
+                                            "id":  "churworld.mods:hybridevents-fabric-0.26.8:1.0.0@jar",
+                                            "name":  "hybridevents-fabric-0.26.8",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  12731375,
-                                                             "MD5":  "f702df3ae4362a2a8a538c48d8a8e77b",
-                                                             "path":  "hybridevents-fabric-0.26.6.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridevents-fabric-0.26.6.jar"
+                                                             "size":  12739759,
+                                                             "MD5":  "a68bb9f12bb3096d3ae1cbbffcb9a0a7",
+                                                             "path":  "hybridevents-fabric-0.26.8.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridevents-fabric-0.26.8.jar"
                                                          }
                                         },
                                         {
@@ -288,14 +288,14 @@
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:lifetower-fabric-client-0.4.68:1.0.0@jar",
-                                            "name":  "lifetower-fabric-client-0.4.68",
+                                            "id":  "churworld.mods:lifetower-fabric-client-0.4.69:1.0.0@jar",
+                                            "name":  "lifetower-fabric-client-0.4.69",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  23729638,
-                                                             "MD5":  "835b37344e3710b79dee0e06eebe40b8",
-                                                             "path":  "lifetower-fabric-client-0.4.68.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifetower-fabric-client-0.4.68.jar"
+                                                             "size":  23749378,
+                                                             "MD5":  "738a6bd6c1b709e2921a560ca4dd5478",
+                                                             "path":  "lifetower-fabric-client-0.4.69.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifetower-fabric-client-0.4.69.jar"
                                                          }
                                         },
                                         {
