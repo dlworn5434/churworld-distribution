@@ -277,25 +277,25 @@
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:lifecore-fishing-client-0.2.22:1.0.0@jar",
-                                            "name":  "lifecore-fishing-client-0.2.22",
+                                            "id":  "churworld.mods:lifecore-fishing-client-0.2.24:1.0.0@jar",
+                                            "name":  "lifecore-fishing-client-0.2.24",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  3546452,
-                                                             "MD5":  "df4c86916d3806e46ff897d13cdd04ff",
-                                                             "path":  "lifecore-fishing-client-0.2.22.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifecore-fishing-client-0.2.22.jar"
+                                                             "size":  3548560,
+                                                             "MD5":  "33a1667cf8453f8857cd232e96bd3534",
+                                                             "path":  "lifecore-fishing-client-0.2.24.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifecore-fishing-client-0.2.24.jar"
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:lifetower-fabric-client-0.4.62:1.0.0@jar",
-                                            "name":  "lifetower-fabric-client-0.4.62",
+                                            "id":  "churworld.mods:lifetower-fabric-client-0.4.68:1.0.0@jar",
+                                            "name":  "lifetower-fabric-client-0.4.68",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  23719304,
-                                                             "MD5":  "9013d7d15d463e4abc17c6b05f6514d0",
-                                                             "path":  "lifetower-fabric-client-0.4.62.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifetower-fabric-client-0.4.62.jar"
+                                                             "size":  23729638,
+                                                             "MD5":  "835b37344e3710b79dee0e06eebe40b8",
+                                                             "path":  "lifetower-fabric-client-0.4.68.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifetower-fabric-client-0.4.68.jar"
                                                          }
                                         },
                                         {
@@ -409,14 +409,58 @@
                                                          }
                                         },
                                         {
-                                            "id":  "shaderpacks_BSL_v10.1.3.zip",
-                                            "name":  "shaderpacks/BSL_v10.1.3.zip",
+                                            "id":  "shaderpacks_Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+                                            "name":  "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  1127026,
-                                                             "MD5":  "324f09c3d1c736576a09782ff75c2f68",
-                                                             "path":  "shaderpacks/BSL_v10.1.3.zip",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/shaderpacks/BSL_v10.1.3.zip"
+                                                             "size":  1791406,
+                                                             "MD5":  "73eac5d017a268ea8175c2025c2863ad",
+                                                             "path":  "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "shaderpacks_BSL_v10.1.8.zip",
+                                            "name":  "shaderpacks/BSL_v10.1.8.zip",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  1134153,
+                                                             "MD5":  "d3344fcbaead234ddd9a45e18c05efd9",
+                                                             "path":  "shaderpacks/BSL_v10.1.8.zip",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/shaderpacks/BSL_v10.1.8.zip"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "shaderpacks_ComplementaryReimagined_r5.9.3.zip",
+                                            "name":  "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  553397,
+                                                             "MD5":  "54cd249cd1e95a4e19f0ea2cb4369e71",
+                                                             "path":  "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/shaderpacks/ComplementaryReimagined_r5.9.3.zip"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "shaderpacks_MakeUp-UltraFast-9.5e.zip",
+                                            "name":  "shaderpacks/MakeUp-UltraFast-9.5e.zip",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  400417,
+                                                             "MD5":  "48a4e8a842c72790e00f5442cc519c48",
+                                                             "path":  "shaderpacks/MakeUp-UltraFast-9.5e.zip",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/shaderpacks/MakeUp-UltraFast-9.5e.zip"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "shaderpacks_Solas Shader V3.7b.zip",
+                                            "name":  "shaderpacks/Solas Shader V3.7b.zip",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  1252311,
+                                                             "MD5":  "1b7a11e3632789953f4577da3476c06f",
+                                                             "path":  "shaderpacks/Solas Shader V3.7b.zip",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/shaderpacks/Solas%20Shader%20V3.7b.zip"
                                                          }
                                         },
                                         {
