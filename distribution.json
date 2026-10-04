@@ -402,8 +402,8 @@
                                             "name":  "config/xaerohud.txt",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  123,
-                                                             "MD5":  "0fd50ac51edf818819a6122232622520",
+                                                             "size":  122,
+                                                             "MD5":  "512977f3995c64cff9bd9b0a62654836",
                                                              "path":  "config/xaerohud.txt",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/xaerohud.txt"
                                                          }
