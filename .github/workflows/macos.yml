@@ -1,4 +1,4 @@
-name: Build macOS DMG (free, manual install)
+name: Build macOS DMG (automatic updates)
 
 on:
   workflow_dispatch:
@@ -33,6 +33,8 @@ jobs:
           cache: npm
       - run: npm ci
       - run: node --test tools/tests/*.test.js
+      - name: Check updater helper syntax
+        run: bash -n app/assets/js/mac-update-install.sh
       - run: npm run dist:mac:${{ matrix.arch }}
       - name: Verify app architecture and local signature
         env:
