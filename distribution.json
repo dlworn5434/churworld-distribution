@@ -233,14 +233,14 @@
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:hybridhud-fabric-client-1.2.13:1.0.0@jar",
-                                            "name":  "hybridhud-fabric-client-1.2.13",
+                                            "id":  "churworld.mods:hybridhud-fabric-client-1.2.14:1.0.0@jar",
+                                            "name":  "hybridhud-fabric-client-1.2.14",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  3661178,
-                                                             "MD5":  "9e465d441678db1d52725631d3a722de",
-                                                             "path":  "hybridhud-fabric-client-1.2.13.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridhud-fabric-client-1.2.13.jar"
+                                                             "size":  3661386,
+                                                             "MD5":  "5da50c8e3028e336031e8c3a36a7dd6e",
+                                                             "path":  "hybridhud-fabric-client-1.2.14.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridhud-fabric-client-1.2.14.jar"
                                                          }
                                         },
                                         {
