@@ -134,6 +134,17 @@
                                                          }
                                         },
                                         {
+                                            "id":  "churworld.mods:churkeys-fabric-client-0.1.2-cream:1.0.0@jar",
+                                            "name":  "churkeys-fabric-client-0.1.2-cream",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  3148571,
+                                                             "MD5":  "57331996484d3bd0a7dace3b7b127c7d",
+                                                             "path":  "churkeys-fabric-client-0.1.2-cream.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churkeys-fabric-client-0.1.2-cream.jar"
+                                                         }
+                                        },
+                                        {
                                             "id":  "churworld.mods:churuechoes-fabric-client-0.46.0:1.0.0@jar",
                                             "name":  "churuechoes-fabric-client-0.46.0",
                                             "type":  "FabricMod",
