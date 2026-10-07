@@ -255,17 +255,6 @@
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:hybridshop-fabric-client-1.0.23:1.0.0@jar",
-                                            "name":  "hybridshop-fabric-client-1.0.23",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  4541267,
-                                                             "MD5":  "38004245fca0d5b0c10bf7d72286da7e",
-                                                             "path":  "hybridshop-fabric-client-1.0.23.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridshop-fabric-client-1.0.23.jar"
-                                                         }
-                                        },
-                                        {
                                             "id":  "churworld.mods:iris-fabric-1.8.8-mc1.21.4:1.0.0@jar",
                                             "name":  "iris-fabric-1.8.8-mc1.21.4",
                                             "type":  "FabricMod",
