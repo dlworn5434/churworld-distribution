@@ -10,5 +10,8 @@
     "key.keyboard.apostrophe",
     "key.keyboard.p"
   ],
-  "defaults": {}
+  "defaults": {
+    "key.churhud.town_minimap": "key.keyboard.m",
+    "key.churhud.town_fly": "key.keyboard.g"
+  }
 }
