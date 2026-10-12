@@ -134,14 +134,14 @@
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:churkeys-fabric-client-0.1.3-cream:1.0.0@jar",
-                                            "name":  "churkeys-fabric-client-0.1.3-cream",
+                                            "id":  "churworld.mods:churkeys-fabric-client-0.1.4-cream:1.0.0@jar",
+                                            "name":  "churkeys-fabric-client-0.1.4-cream",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  3166596,
-                                                             "MD5":  "94511017023c9767f3f7993382de076a",
-                                                             "path":  "churkeys-fabric-client-0.1.3-cream.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churkeys-fabric-client-0.1.3-cream.jar"
+                                                             "size":  3167177,
+                                                             "MD5":  "62d47c45e1371995263f5a3e8f98f7a3",
+                                                             "path":  "churkeys-fabric-client-0.1.4-cream.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churkeys-fabric-client-0.1.4-cream.jar"
                                                          }
                                         },
                                         {
@@ -402,8 +402,8 @@
                                             "name":  "config/churkeys-defaults.json",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  252,
-                                                             "MD5":  "cabcee4bca934ebed092ffe05289f7fb",
+                                                             "size":  274,
+                                                             "MD5":  "f8b5289a82101b9068dcfd2aaef1cdb0",
                                                              "path":  "config/churkeys-defaults.json",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/churkeys-defaults.json"
                                                          }
