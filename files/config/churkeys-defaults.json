@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "unboundKeys": [
+    "key.keyboard.g",
+    "key.keyboard.m",
+    "key.keyboard.n",
+    "key.keyboard.left.bracket",
+    "key.keyboard.right.bracket",
+    "key.keyboard.apostrophe",
+    "key.keyboard.p"
+  ],
+  "defaults": {}
+}

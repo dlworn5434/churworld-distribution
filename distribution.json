@@ -134,14 +134,14 @@
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:churkeys-fabric-client-0.1.2-cream:1.0.0@jar",
-                                            "name":  "churkeys-fabric-client-0.1.2-cream",
+                                            "id":  "churworld.mods:churkeys-fabric-client-0.1.3-cream:1.0.0@jar",
+                                            "name":  "churkeys-fabric-client-0.1.3-cream",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  3148571,
-                                                             "MD5":  "57331996484d3bd0a7dace3b7b127c7d",
-                                                             "path":  "churkeys-fabric-client-0.1.2-cream.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churkeys-fabric-client-0.1.2-cream.jar"
+                                                             "size":  3166596,
+                                                             "MD5":  "94511017023c9767f3f7993382de076a",
+                                                             "path":  "churkeys-fabric-client-0.1.3-cream.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churkeys-fabric-client-0.1.3-cream.jar"
                                                          }
                                         },
                                         {
@@ -164,6 +164,17 @@
                                                              "MD5":  "b2632313e71c947fba7038609742640e",
                                                              "path":  "churumenu-fabric-client-0.1.9.jar",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churumenu-fabric-client-0.1.9.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "churworld.mods:churunyangi-fabric-client-0.1.8:1.0.0@jar",
+                                            "name":  "churunyangi-fabric-client-0.1.8",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  11000735,
+                                                             "MD5":  "2426aa2abb816bb564920162692cba09",
+                                                             "path":  "churunyangi-fabric-client-0.1.8.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churunyangi-fabric-client-0.1.8.jar"
                                                          }
                                         },
                                         {
@@ -384,6 +395,17 @@
                                                              "MD5":  "5226a613f740dfa1693ea0a4badbb4b1",
                                                              "path":  "xaeroworldmap-fabric-1.21.4-1.44.2.jar",
                                                              "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/xaeroworldmap-fabric-1.21.4-1.44.2.jar"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "config_churkeys-defaults.json",
+                                            "name":  "config/churkeys-defaults.json",
+                                            "type":  "File",
+                                            "artifact":  {
+                                                             "size":  252,
+                                                             "MD5":  "cabcee4bca934ebed092ffe05289f7fb",
+                                                             "path":  "config/churkeys-defaults.json",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/churkeys-defaults.json"
                                                          }
                                         },
                                         {
