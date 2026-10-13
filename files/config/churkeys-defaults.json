@@ -11,7 +11,9 @@
     "key.keyboard.p"
   ],
   "defaults": {
-    "key.churhud.town_minimap": "key.keyboard.m",
-    "key.churhud.town_fly": "key.keyboard.g"
+    "key.churhud.town_minimap": "key.keyboard.n",
+    "key.churhud.town_fly": "key.keyboard.g",
+    "key.churhud.chat_cycle": "key.keyboard.h",
+    "gui.xaero_open_map": "key.keyboard.m"
   }
 }
