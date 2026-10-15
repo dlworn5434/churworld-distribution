@@ -299,14 +299,14 @@
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:lifecore-fishing-client-0.2.32:1.0.0@jar",
-                                            "name":  "lifecore-fishing-client-0.2.32",
+                                            "id":  "churworld.mods:lifecore-fishing-client-0.2.33:1.0.0@jar",
+                                            "name":  "lifecore-fishing-client-0.2.33",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  26075168,
-                                                             "MD5":  "e60f007e226c1cf4002dd312c96c9ed7",
-                                                             "path":  "lifecore-fishing-client-0.2.32.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifecore-fishing-client-0.2.32.jar"
+                                                             "size":  26075264,
+                                                             "MD5":  "52ad84e9fdc4be2b26d4d58ef4a9c3da",
+                                                             "path":  "lifecore-fishing-client-0.2.33.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifecore-fishing-client-0.2.33.jar"
                                                          }
                                         },
                                         {
