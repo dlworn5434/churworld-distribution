@@ -156,14 +156,14 @@
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:churumenu-fabric-client-0.1.18:1.0.0@jar",
-                                            "name":  "churumenu-fabric-client-0.1.18",
+                                            "id":  "churworld.mods:churumenu-fabric-client-0.1.20:1.0.0@jar",
+                                            "name":  "churumenu-fabric-client-0.1.20",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  17210317,
-                                                             "MD5":  "ed493d0cb8ef8b1e3a02710c5cab2200",
-                                                             "path":  "churumenu-fabric-client-0.1.18.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churumenu-fabric-client-0.1.18.jar"
+                                                             "size":  17213956,
+                                                             "MD5":  "47854e9109d6b963c05db030f14c114b",
+                                                             "path":  "churumenu-fabric-client-0.1.20.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churumenu-fabric-client-0.1.20.jar"
                                                          }
                                         },
                                         {
@@ -266,14 +266,14 @@
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:hybridhud-fabric-client-1.2.33:1.0.0@jar",
-                                            "name":  "hybridhud-fabric-client-1.2.33",
+                                            "id":  "churworld.mods:hybridhud-fabric-client-1.2.34:1.0.0@jar",
+                                            "name":  "hybridhud-fabric-client-1.2.34",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  3927941,
-                                                             "MD5":  "938bda412222f4d68a0c1df55ad4d405",
-                                                             "path":  "hybridhud-fabric-client-1.2.33.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridhud-fabric-client-1.2.33.jar"
+                                                             "size":  3946107,
+                                                             "MD5":  "2f61347728d7ab39bfba4df8425c7bc9",
+                                                             "path":  "hybridhud-fabric-client-1.2.34.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridhud-fabric-client-1.2.34.jar"
                                                          }
                                         },
                                         {
@@ -299,14 +299,14 @@
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:lifecore-fishing-client-0.2.45:1.0.0@jar",
-                                            "name":  "lifecore-fishing-client-0.2.45",
+                                            "id":  "churworld.mods:lifecore-fishing-client-0.2.48:1.0.0@jar",
+                                            "name":  "lifecore-fishing-client-0.2.48",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  26158576,
-                                                             "MD5":  "b11dc45e8d969014ced3ae3e07bddc29",
-                                                             "path":  "lifecore-fishing-client-0.2.45.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifecore-fishing-client-0.2.45.jar"
+                                                             "size":  26284657,
+                                                             "MD5":  "627d949b83e181cad832f2393077e1eb",
+                                                             "path":  "lifecore-fishing-client-0.2.48.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifecore-fishing-client-0.2.48.jar"
                                                          }
                                         },
                                         {
