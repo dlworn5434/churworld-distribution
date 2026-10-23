@@ -156,14 +156,14 @@
                                                          }
                                         },
                                         {
-                                            "id":  "churworld.mods:churumenu-fabric-client-0.1.23:1.0.0@jar",
-                                            "name":  "churumenu-fabric-client-0.1.23",
+                                            "id":  "churworld.mods:churumenu-fabric-client-0.1.26:1.0.0@jar",
+                                            "name":  "churumenu-fabric-client-0.1.26",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  17316692,
-                                                             "MD5":  "2bb3fe42bbac0e22f7aa68f9c08d9e09",
-                                                             "path":  "churumenu-fabric-client-0.1.23.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churumenu-fabric-client-0.1.23.jar"
+                                                             "size":  17346464,
+                                                             "MD5":  "0f95d302c22e15212dfb1575dd50c7e8",
+                                                             "path":  "churumenu-fabric-client-0.1.26.jar",
+                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churumenu-fabric-client-0.1.26.jar"
                                                          }
                                         },
                                         {
