@@ -21,18 +21,24 @@ jobs:
     env:
       CSC_IDENTITY_AUTO_DISCOVERY: 'false'
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: false
       - name: Extract launcher source in distribution repository
         run: |
           if [[ ! -f package.json ]]; then
             unzip -q launcher-source.zip
           fi
-      - uses: actions/setup-node@v6
+      - uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6
         with:
           node-version: 22
           cache: npm
       - run: npm ci
+      - run: node node_modules/electron/install.js
       - run: node --test tools/tests/*.test.js
+      - run: npm run test:auth
+      - run: npm run test:security
+      - run: npm run test:renderer-native
       - name: Check updater helper syntax
         run: bash -n app/assets/js/mac-update-install.sh
       - run: npm run dist:mac:${{ matrix.arch }}
@@ -41,9 +47,10 @@ jobs:
           TARGET_ARCH: ${{ matrix.arch }}
         run: bash tools/verify-mac-build.sh "$TARGET_ARCH"
       - name: Save DMG for download (does not publish a release)
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:
           name: ChurWorld-macOS-${{ matrix.arch }}
           path: dist/ChurWorld-Launcher-setup-*-${{ matrix.arch }}.dmg
           if-no-files-found: error
           retention-days: 7
+
