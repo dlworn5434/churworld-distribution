@@ -692,6 +692,20 @@
             "path": "emotes/Sobbing.emotecraft",
             "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Sobbing.emotecraft"
           }
+        },
+        {
+          "id": "churworld.mods:churguard-0.1.0:1.0.0@jar",
+          "name": "ChurGuard - administrator reports",
+          "type": "FabricMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "path": "churguard-0.1.0.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/42583e1bcd36c5195c153e566e8d16826dca8043/files/mods/churguard-0.1.0.jar",
+            "size": 23854,
+            "MD5": "f7c91179f288ebfcc2017f96f74b0a28"
+          }
         }
       ]
     }
