@@ -156,14 +156,14 @@
           }
         },
         {
-          "id": "churworld.mods:churumenu-fabric-client-0.1.28:1.0.0@jar",
-          "name": "churumenu-fabric-client-0.1.28",
+          "id": "churworld.mods:churumenu-fabric-client-0.1.29:1.0.0@jar",
+          "name": "churumenu-fabric-client-0.1.29",
           "type": "FabricMod",
           "artifact": {
-            "size": 17354803,
-            "MD5": "ad65bc4e0cc8fe6a6e6ef830623c758b",
-            "path": "churumenu-fabric-client-0.1.28.jar",
-            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/fe77e17b5115cd99b5868ba5ec65d2510bcab9ab/files/mods/churumenu-fabric-client-0.1.28.jar"
+            "size": 17354930,
+            "MD5": "271a1d3a661b992c9d92d42c90e03961",
+            "path": "churumenu-fabric-client-0.1.29.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/654db06de3f5df0dacb9b79034c8d4faaa46c967/files/mods/churumenu-fabric-client-0.1.29.jar"
           }
         },
         {
@@ -299,14 +299,14 @@
           }
         },
         {
-          "id": "churworld.mods:lifecore-fishing-client-0.2.52:1.0.0@jar",
-          "name": "lifecore-fishing-client-0.2.52",
+          "id": "churworld.mods:lifecore-fishing-client-0.2.53:1.0.0@jar",
+          "name": "lifecore-fishing-client-0.2.53",
           "type": "FabricMod",
           "artifact": {
-            "size": 26331553,
-            "MD5": "e6a9710e981dac97455ac53804213c37",
-            "path": "lifecore-fishing-client-0.2.52.jar",
-            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/fe77e17b5115cd99b5868ba5ec65d2510bcab9ab/files/mods/lifecore-fishing-client-0.2.52.jar"
+            "size": 26329502,
+            "MD5": "a1d586ccf413b8e9424405ea04507128",
+            "path": "lifecore-fishing-client-0.2.53.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/654db06de3f5df0dacb9b79034c8d4faaa46c967/files/mods/lifecore-fishing-client-0.2.53.jar"
           }
         },
         {
