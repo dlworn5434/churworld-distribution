@@ -692,6 +692,21 @@
             "path": "emotes/Sobbing.emotecraft",
             "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Sobbing.emotecraft"
           }
+        },
+        {
+          "id": "churworld.mods:churu-chair-mesh-0.1.0:1.0.0@jar",
+          "name": "churu-chair-mesh-0.1.0",
+          "type": "FabricMod",
+          "required": {
+            "value": false,
+            "def": true
+          },
+          "artifact": {
+            "path": "churu-chair-mesh-0.1.0.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/25fa6ea919d0ff5c4100b3481aa87b9ce3d9e1b5/files/mods/churu-chair-mesh-0.1.0.jar",
+            "size": 3456288,
+            "MD5": "17783ad5e0ac093782a1e0fc95dd1fea"
+          }
         }
       ]
     }
