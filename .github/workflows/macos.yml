@@ -39,6 +39,8 @@ jobs:
       - run: npm run test:auth
       - run: npm run test:security
       - run: npm run test:renderer-native
+      - name: Verify browser login with the native renderer
+        run: ./node_modules/.bin/electron tests/auth-browser-renderer-native.cjs
       - name: Check updater helper syntax
         run: bash -n app/assets/js/mac-update-install.sh
       - run: npm run dist:mac:${{ matrix.arch }}
