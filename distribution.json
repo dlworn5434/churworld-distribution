@@ -156,14 +156,14 @@
           }
         },
         {
-          "id": "churworld.mods:churumenu-fabric-client-0.1.26:1.0.0@jar",
-          "name": "churumenu-fabric-client-0.1.26",
+          "id": "churworld.mods:churumenu-fabric-client-0.1.28:1.0.0@jar",
+          "name": "churumenu-fabric-client-0.1.28",
           "type": "FabricMod",
           "artifact": {
-            "size": 17346464,
-            "MD5": "0f95d302c22e15212dfb1575dd50c7e8",
-            "path": "churumenu-fabric-client-0.1.26.jar",
-            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churumenu-fabric-client-0.1.26.jar"
+            "size": 17354803,
+            "MD5": "ad65bc4e0cc8fe6a6e6ef830623c758b",
+            "path": "churumenu-fabric-client-0.1.28.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/fe77e17b5115cd99b5868ba5ec65d2510bcab9ab/files/mods/churumenu-fabric-client-0.1.28.jar"
           }
         },
         {
@@ -299,14 +299,14 @@
           }
         },
         {
-          "id": "churworld.mods:lifecore-fishing-client-0.2.51:1.0.0@jar",
-          "name": "lifecore-fishing-client-0.2.51",
+          "id": "churworld.mods:lifecore-fishing-client-0.2.52:1.0.0@jar",
+          "name": "lifecore-fishing-client-0.2.52",
           "type": "FabricMod",
           "artifact": {
-            "size": 26300075,
-            "MD5": "9f62946a916f0a09a0997967f35904b1",
-            "path": "lifecore-fishing-client-0.2.51.jar",
-            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifecore-fishing-client-0.2.51.jar"
+            "size": 26331553,
+            "MD5": "e6a9710e981dac97455ac53804213c37",
+            "path": "lifecore-fishing-client-0.2.52.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/fe77e17b5115cd99b5868ba5ec65d2510bcab9ab/files/mods/lifecore-fishing-client-0.2.52.jar"
           }
         },
         {
