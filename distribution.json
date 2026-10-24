@@ -1,699 +1,699 @@
 {
-    "version":  "1.0.0",
-    "servers":  [
-                    {
-                        "id":  "churworld",
-                        "name":  "ChurWorld",
-                        "description":  "ChurWorld Fabric Client",
-                        "version":  "1.0.0",
-                        "address":  "churworld.kr",
-                        "minecraftVersion":  "1.21.4",
-                        "mainServer":  true,
-                        "autoconnect":  true,
-                        "javaOptions":  {
-                                            "supported":  "\u003e=21",
-                                            "suggestedMajor":  21,
-                                            "ram":  {
-                                                        "recommended":  4096,
-                                                        "minimum":  2048
-                                                    }
-                                        },
-                        "modules":  [
-                                        {
-                                            "id":  "net.fabricmc:fabric-loader:0.17.2",
-                                            "name":  "Fabric Loader",
-                                            "type":  "Fabric",
-                                            "artifact":  {
-                                                             "size":  1915305,
-                                                             "MD5":  "72dd698d701202d46303fc913cfcbf23",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/libraries/net/fabricmc/fabric-loader/0.17.2/fabric-loader-0.17.2.jar"
-                                                         },
-                                            "subModules":  [
-                                                               {
-                                                                   "id":  "1.21.4-fabric-0.17.2",
-                                                                   "name":  "Fabric VersionManifest",
-                                                                   "type":  "VersionManifest",
-                                                                   "artifact":  {
-                                                                                    "size":  2847,
-                                                                                    "MD5":  "61ad447777e0b52a91db37af1ff41ccf",
-                                                                                    "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/versions/1.21.4-fabric-0.17.2/1.21.4-fabric-0.17.2.json"
-                                                                                }
-                                                               },
-                                                               {
-                                                                   "id":  "org.ow2.asm:asm:9.8",
-                                                                   "name":  "org.ow2.asm:asm:9.8",
-                                                                   "type":  "Library",
-                                                                   "artifact":  {
-                                                                                    "size":  126113,
-                                                                                    "MD5":  "f5adf3bfc54fb3d2cd8e3a1f275084bc",
-                                                                                    "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/libraries/org/ow2/asm/asm/9.8/asm-9.8.jar"
-                                                                                }
-                                                               },
-                                                               {
-                                                                   "id":  "org.ow2.asm:asm-analysis:9.8",
-                                                                   "name":  "org.ow2.asm:asm-analysis:9.8",
-                                                                   "type":  "Library",
-                                                                   "artifact":  {
-                                                                                    "size":  35151,
-                                                                                    "MD5":  "3d63508405f5610fc2ea673ff5471553",
-                                                                                    "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/libraries/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
-                                                                                }
-                                                               },
-                                                               {
-                                                                   "id":  "org.ow2.asm:asm-commons:9.8",
-                                                                   "name":  "org.ow2.asm:asm-commons:9.8",
-                                                                   "type":  "Library",
-                                                                   "artifact":  {
-                                                                                    "size":  73498,
-                                                                                    "MD5":  "c8c3d9ccf240144e74d94ff658b024c9",
-                                                                                    "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/libraries/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
-                                                                                }
-                                                               },
-                                                               {
-                                                                   "id":  "org.ow2.asm:asm-tree:9.8",
-                                                                   "name":  "org.ow2.asm:asm-tree:9.8",
-                                                                   "type":  "Library",
-                                                                   "artifact":  {
-                                                                                    "size":  51934,
-                                                                                    "MD5":  "4ab1aaec43c77a2d9b56e6d6d496f705",
-                                                                                    "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/libraries/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
-                                                                                }
-                                                               },
-                                                               {
-                                                                   "id":  "org.ow2.asm:asm-util:9.8",
-                                                                   "name":  "org.ow2.asm:asm-util:9.8",
-                                                                   "type":  "Library",
-                                                                   "artifact":  {
-                                                                                    "size":  94559,
-                                                                                    "MD5":  "62498ef324bdab15f407d703f7d78d19",
-                                                                                    "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/libraries/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
-                                                                                }
-                                                               },
-                                                               {
-                                                                   "id":  "net.fabricmc:sponge-mixin:0.16.3+mixin.0.8.7",
-                                                                   "name":  "net.fabricmc:sponge-mixin:0.16.3+mixin.0.8.7",
-                                                                   "type":  "Library",
-                                                                   "artifact":  {
-                                                                                    "size":  1504156,
-                                                                                    "MD5":  "aa4a43d5b0e9abf4fcb57520ffeb0019",
-                                                                                    "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/libraries/net/fabricmc/sponge-mixin/0.16.3%2Bmixin.0.8.7/sponge-mixin-0.16.3%2Bmixin.0.8.7.jar"
-                                                                                }
-                                                               },
-                                                               {
-                                                                   "id":  "net.fabricmc:intermediary:1.21.4",
-                                                                   "name":  "net.fabricmc:intermediary:1.21.4",
-                                                                   "type":  "Library",
-                                                                   "artifact":  {
-                                                                                    "size":  701826,
-                                                                                    "MD5":  "d0f4187a62328d4a95f3428434efbd48",
-                                                                                    "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/libraries/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
-                                                                                }
-                                                               }
-                                                           ]
-                                        },
-                                        {
-                                            "id":  "churworld.mods:balm-fabric-1.21.4-21.4.41:1.0.0@jar",
-                                            "name":  "balm-fabric-1.21.4-21.4.41",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  599615,
-                                                             "MD5":  "111978e3b35ab07a86bcb8bde78d6c1c",
-                                                             "path":  "balm-fabric-1.21.4-21.4.41.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/balm-fabric-1.21.4-21.4.41.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:churcamera-fabric-client-0.3.3:1.0.0@jar",
-                                            "name":  "churcamera-fabric-client-0.3.3",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  172977,
-                                                             "MD5":  "06efc6966fb446c8c06d8f7b27858c30",
-                                                             "path":  "churcamera-fabric-client-0.3.3.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churcamera-fabric-client-0.3.3.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:churkeys-fabric-client-0.1.7-cream:1.0.0@jar",
-                                            "name":  "churkeys-fabric-client-0.1.7-cream",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  3167247,
-                                                             "MD5":  "4cc5f88abfd9c82db87bb04f518515f8",
-                                                             "path":  "churkeys-fabric-client-0.1.7-cream.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churkeys-fabric-client-0.1.7-cream.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:churuechoes-fabric-client-0.46.0:1.0.0@jar",
-                                            "name":  "churuechoes-fabric-client-0.46.0",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  4377664,
-                                                             "MD5":  "a1e4cb80b2367e307d00d1e7988c4583",
-                                                             "path":  "churuechoes-fabric-client-0.46.0.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churuechoes-fabric-client-0.46.0.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:churumenu-fabric-client-0.1.26:1.0.0@jar",
-                                            "name":  "churumenu-fabric-client-0.1.26",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  17346464,
-                                                             "MD5":  "0f95d302c22e15212dfb1575dd50c7e8",
-                                                             "path":  "churumenu-fabric-client-0.1.26.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churumenu-fabric-client-0.1.26.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:churunyangi-fabric-client-0.1.25:1.0.0@jar",
-                                            "name":  "churunyangi-fabric-client-0.1.25",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  11167276,
-                                                             "MD5":  "3ccde379a88dd48bc9d1afd519adac05",
-                                                             "path":  "churunyangi-fabric-client-0.1.25.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churunyangi-fabric-client-0.1.25.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:churworld-korean-input-1.0.0:1.0.0@jar",
-                                            "name":  "churworld-korean-input-1.0.0",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  4519,
-                                                             "MD5":  "7b5f42b1f822cd45fa44f2786b3e314c",
-                                                             "path":  "churworld-korean-input-1.0.0.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churworld-korean-input-1.0.0.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:cloth-config-17.0.144-fabric:1.0.0@jar",
-                                            "name":  "cloth-config-17.0.144-fabric",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  1152857,
-                                                             "MD5":  "07b7d5bc15bdc7387cf8890d0c460b54",
-                                                             "path":  "cloth-config-17.0.144-fabric.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/cloth-config-17.0.144-fabric.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:defaultoptions-fabric-1.21.4-21.4.6:1.0.0@jar",
-                                            "name":  "defaultoptions-fabric-1.21.4-21.4.6",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  98235,
-                                                             "MD5":  "9ed0bb66374791980aa017b8e2d2d240",
-                                                             "path":  "defaultoptions-fabric-1.21.4-21.4.6.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/defaultoptions-fabric-1.21.4-21.4.6.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:emotecraft-fabric-for-mc1.21.4-2.5.8:1.0.0@jar",
-                                            "name":  "emotecraft-fabric-for-mc1.21.4-2.5.8",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  1259819,
-                                                             "MD5":  "ecbcffd1aa9d83847e00da62fc45d9b3",
-                                                             "path":  "emotecraft-fabric-for-MC1.21.4-2.5.8.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/emotecraft-fabric-for-MC1.21.4-2.5.8.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:fabric-api-0.119.4-1.21.4:1.0.0@jar",
-                                            "name":  "fabric-api-0.119.4-1.21.4",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  2149128,
-                                                             "MD5":  "128a8d042180e7c92567342e21a21a6d",
-                                                             "path":  "fabric-api-0.119.4+1.21.4.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/fabric-api-0.119.4%2B1.21.4.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:hybridbuild-fabric-client-0.2.6:1.0.0@jar",
-                                            "name":  "hybridbuild-fabric-client-0.2.6",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  1847782,
-                                                             "MD5":  "c18f57bab2a4c162892a7fa15c39ca79",
-                                                             "path":  "hybridbuild-fabric-client-0.2.6.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridbuild-fabric-client-0.2.6.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:hybridcodi-fabric-client-0.1.19:1.0.0@jar",
-                                            "name":  "hybridcodi-fabric-client-0.1.19",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  13627532,
-                                                             "MD5":  "51965ba47203da06e7a057f2a7304820",
-                                                             "path":  "hybridcodi-fabric-client-0.1.19.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridcodi-fabric-client-0.1.19.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:hybridevents-fabric-0.26.9:1.0.0@jar",
-                                            "name":  "hybridevents-fabric-0.26.9",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  12739754,
-                                                             "MD5":  "7a24ac70c0b849ce5afb8f81c2305c6d",
-                                                             "path":  "hybridevents-fabric-0.26.9.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridevents-fabric-0.26.9.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:hybridhud-fabric-client-1.2.34:1.0.0@jar",
-                                            "name":  "hybridhud-fabric-client-1.2.34",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  3946107,
-                                                             "MD5":  "2f61347728d7ab39bfba4df8425c7bc9",
-                                                             "path":  "hybridhud-fabric-client-1.2.34.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridhud-fabric-client-1.2.34.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:iris-fabric-1.8.8-mc1.21.4:1.0.0@jar",
-                                            "name":  "iris-fabric-1.8.8-mc1.21.4",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  2682702,
-                                                             "MD5":  "59d373e4874efbcb8fb426bdefa588d9",
-                                                             "path":  "iris-fabric-1.8.8+mc1.21.4.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/iris-fabric-1.8.8%2Bmc1.21.4.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:koreanpatch-fabric-1.9.6-mc1.21.3:1.0.0@jar",
-                                            "name":  "koreanpatch-fabric-1.9.6-mc1.21.3",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  655990,
-                                                             "MD5":  "c95329994b4cc793ec412462543c4f67",
-                                                             "path":  "koreanpatch-fabric-1.9.6+mc1.21.3.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/koreanpatch-fabric-1.9.6%2Bmc1.21.3.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:lifecore-fishing-client-0.2.51:1.0.0@jar",
-                                            "name":  "lifecore-fishing-client-0.2.51",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  26300075,
-                                                             "MD5":  "9f62946a916f0a09a0997967f35904b1",
-                                                             "path":  "lifecore-fishing-client-0.2.51.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifecore-fishing-client-0.2.51.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:lifetower-fabric-client-0.4.73:1.0.0@jar",
-                                            "name":  "lifetower-fabric-client-0.4.73",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  23751883,
-                                                             "MD5":  "e0f7d31bb262ad1450dbcfa1ba95648c",
-                                                             "path":  "lifetower-fabric-client-0.4.73.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifetower-fabric-client-0.4.73.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:modmenu-13.0.4:1.0.0@jar",
-                                            "name":  "modmenu-13.0.4",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  1050885,
-                                                             "MD5":  "79856b4ad839616c9b4318952ba44fd1",
-                                                             "path":  "modmenu-13.0.4.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/modmenu-13.0.4.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:placeholder-api-2.5.2-1.21.3:1.0.0@jar",
-                                            "name":  "placeholder-api-2.5.2-1.21.3",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  237288,
-                                                             "MD5":  "80b2dea3d99621d2b76db30a0582665d",
-                                                             "path":  "placeholder-api-2.5.2+1.21.3.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/placeholder-api-2.5.2%2B1.21.3.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:sodium-fabric-0.6.13-mc1.21.4:1.0.0@jar",
-                                            "name":  "sodium-fabric-0.6.13-mc1.21.4",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  1306799,
-                                                             "MD5":  "28922a78d1876ee062e3265f10abcc46",
-                                                             "path":  "sodium-fabric-0.6.13+mc1.21.4.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/sodium-fabric-0.6.13%2Bmc1.21.4.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:talking-heads-1.1.3-1.21.4-fabric:1.0.0@jar",
-                                            "name":  "talking-heads-1.1.3-1.21.4-fabric",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  289843,
-                                                             "MD5":  "9bc672e79e764898e9d54ae0b95a8432",
-                                                             "path":  "talking-heads-1.1.3+1.21.4+fabric.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/talking-heads-1.1.3%2B1.21.4%2Bfabric.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:voicechat-fabric-1.21.4-2.6.20:1.0.0@jar",
-                                            "name":  "voicechat-fabric-1.21.4-2.6.20",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  5369121,
-                                                             "MD5":  "52bf5af4d6bc570554ff2c88c05e5829",
-                                                             "path":  "voicechat-fabric-1.21.4-2.6.20.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/voicechat-fabric-1.21.4-2.6.20.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:xaerominimap-fabric-1.21.4-26.4.2:1.0.0@jar",
-                                            "name":  "xaerominimap-fabric-1.21.4-26.4.2",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  2221844,
-                                                             "MD5":  "4069e8a461c376f8f577150770e5b64f",
-                                                             "path":  "xaerominimap-fabric-1.21.4-26.4.2.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/xaerominimap-fabric-1.21.4-26.4.2.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "churworld.mods:xaeroworldmap-fabric-1.21.4-1.44.2:1.0.0@jar",
-                                            "name":  "xaeroworldmap-fabric-1.21.4-1.44.2",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  1442400,
-                                                             "MD5":  "5226a613f740dfa1693ea0a4badbb4b1",
-                                                             "path":  "xaeroworldmap-fabric-1.21.4-1.44.2.jar",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/xaeroworldmap-fabric-1.21.4-1.44.2.jar"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "config_churkeys-defaults.json",
-                                            "name":  "config/churkeys-defaults.json",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  464,
-                                                             "MD5":  "7da1ec80c8fad57b17e79aa5517856fa",
-                                                             "path":  "config/churkeys-defaults.json",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/churkeys-defaults.json"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "config_defaultoptions_keybindings.txt",
-                                            "name":  "config/defaultoptions/keybindings.txt",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  54,
-                                                             "MD5":  "03602ac23bfa39d09ef93bceba907ded",
-                                                             "path":  "config/defaultoptions/keybindings.txt",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/defaultoptions/keybindings.txt"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "config_defaultoptions_options.txt",
-                                            "name":  "config/defaultoptions/options.txt",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  46,
-                                                             "MD5":  "0aea2becb189cd05924667ff75b742de",
-                                                             "path":  "config/defaultoptions/options.txt",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/defaultoptions/options.txt"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "config_xaerohud.txt",
-                                            "name":  "config/xaerohud.txt",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  122,
-                                                             "path":  "config/xaerohud.txt",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/xaerohud.txt"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "shaderpacks_Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
-                                            "name":  "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  1791406,
-                                                             "MD5":  "73eac5d017a268ea8175c2025c2863ad",
-                                                             "path":  "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "shaderpacks_BSL_v10.1.8.zip",
-                                            "name":  "shaderpacks/BSL_v10.1.8.zip",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  1134153,
-                                                             "MD5":  "d3344fcbaead234ddd9a45e18c05efd9",
-                                                             "path":  "shaderpacks/BSL_v10.1.8.zip",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/shaderpacks/BSL_v10.1.8.zip"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "shaderpacks_ComplementaryReimagined_r5.9.3.zip",
-                                            "name":  "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  553397,
-                                                             "MD5":  "54cd249cd1e95a4e19f0ea2cb4369e71",
-                                                             "path":  "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/shaderpacks/ComplementaryReimagined_r5.9.3.zip"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "shaderpacks_MakeUp-UltraFast-9.5e.zip",
-                                            "name":  "shaderpacks/MakeUp-UltraFast-9.5e.zip",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  400417,
-                                                             "MD5":  "48a4e8a842c72790e00f5442cc519c48",
-                                                             "path":  "shaderpacks/MakeUp-UltraFast-9.5e.zip",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/shaderpacks/MakeUp-UltraFast-9.5e.zip"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "shaderpacks_Solas Shader V3.7b.zip",
-                                            "name":  "shaderpacks/Solas Shader V3.7b.zip",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  1252311,
-                                                             "MD5":  "1b7a11e3632789953f4577da3476c06f",
-                                                             "path":  "shaderpacks/Solas Shader V3.7b.zip",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/shaderpacks/Solas%20Shader%20V3.7b.zip"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "emotes_Breakdance Flare.emotecraft",
-                                            "name":  "emotes/Breakdance Flare.emotecraft",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  612911,
-                                                             "MD5":  "24dbc084220bb1bc9a365c4a30b4484b",
-                                                             "path":  "emotes/Breakdance Flare.emotecraft",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Breakdance%20Flare.emotecraft"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "emotes_CaramellDansen.emotecraft",
-                                            "name":  "emotes/CaramellDansen.emotecraft",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  59199,
-                                                             "MD5":  "328079633768a1bcfe1fe978222c8510",
-                                                             "path":  "emotes/CaramellDansen.emotecraft",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/CaramellDansen.emotecraft"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "emotes_CaramellDansen.json",
-                                            "name":  "emotes/CaramellDansen.json",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  15582,
-                                                             "MD5":  "ea06dc04eaabbdaa8c180f5888ebaf68",
-                                                             "path":  "emotes/CaramellDansen.json",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/CaramellDansen.json"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "emotes_CaramellDansen.png",
-                                            "name":  "emotes/CaramellDansen.png",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  57520,
-                                                             "MD5":  "afa3a7df630585aede608aa7c0efca4b",
-                                                             "path":  "emotes/CaramellDansen.png",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/CaramellDansen.png"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "emotes_Cheer.emotecraft",
-                                            "name":  "emotes/Cheer.emotecraft",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  52773,
-                                                             "MD5":  "8f6afccbde1bd57b4929a2cfd6b26995",
-                                                             "path":  "emotes/Cheer.emotecraft",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Cheer.emotecraft"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "emotes_Cheer.json",
-                                            "name":  "emotes/Cheer.json",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  15582,
-                                                             "MD5":  "cebbac97c1ec85cff3ae8cfc7b7b0dd8",
-                                                             "path":  "emotes/Cheer.json",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Cheer.json"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "emotes_Cheer.png",
-                                            "name":  "emotes/Cheer.png",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  51124,
-                                                             "MD5":  "57dac0702b8aa8a31eb063823d8ada42",
-                                                             "path":  "emotes/Cheer.png",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Cheer.png"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "emotes_Cheering.emotecraft",
-                                            "name":  "emotes/Cheering.emotecraft",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  63251,
-                                                             "MD5":  "e7afa9d4df40e9ddbd60f4cfe9fb23b9",
-                                                             "path":  "emotes/Cheering.emotecraft",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Cheering.emotecraft"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "emotes_Cheering.json",
-                                            "name":  "emotes/Cheering.json",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  31277,
-                                                             "MD5":  "bb241c32ed0943407a571df03fc9ca75",
-                                                             "path":  "emotes/Cheering.json",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Cheering.json"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "emotes_Cheering.png",
-                                            "name":  "emotes/Cheering.png",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  60477,
-                                                             "MD5":  "29f224d127b23068afa175394076ac3e",
-                                                             "path":  "emotes/Cheering.png",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Cheering.png"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "emotes_Chillin\u0027 out.emotecraft",
-                                            "name":  "emotes/Chillin\u0027 out.emotecraft",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  82915,
-                                                             "MD5":  "68224981189da2086ec92e25311d4246",
-                                                             "path":  "emotes/Chillin\u0027 out.emotecraft",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Chillin\u0027%20out.emotecraft"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "emotes_Dylan dance (Dance).emotecraft",
-                                            "name":  "emotes/Dylan dance (Dance).emotecraft",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  96650,
-                                                             "MD5":  "9859992cd668844907d0fc4ff25e128c",
-                                                             "path":  "emotes/Dylan dance (Dance).emotecraft",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Dylan%20dance%20(Dance).emotecraft"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "emotes_Hell Destroyer (Dance) (Multiverse) (Helltaker).emotecraft",
-                                            "name":  "emotes/Hell Destroyer (Dance) (Multiverse) (Helltaker).emotecraft",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  83308,
-                                                             "MD5":  "e733541440152efca6201a9789fb22cc",
-                                                             "path":  "emotes/Hell Destroyer (Dance) (Multiverse) (Helltaker).emotecraft",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Hell%20Destroyer%20(Dance)%20(Multiverse)%20(Helltaker).emotecraft"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "emotes_Rat Dance 1.2.emotecraft",
-                                            "name":  "emotes/Rat Dance 1.2.emotecraft",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  76127,
-                                                             "MD5":  "1010b1795ff3c4ebdae4b7e87681a220",
-                                                             "path":  "emotes/Rat Dance 1.2.emotecraft",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Rat%20Dance%201.2.emotecraft"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "emotes_Rat Dance 1.2.json",
-                                            "name":  "emotes/Rat Dance 1.2.json",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  52491,
-                                                             "MD5":  "84638bb575d9b40a4ebc654d08ef9ba1",
-                                                             "path":  "emotes/Rat Dance 1.2.json",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Rat%20Dance%201.2.json"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "emotes_Rat Dance 1.2.png",
-                                            "name":  "emotes/Rat Dance 1.2.png",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  71805,
-                                                             "MD5":  "7878779b596812f879bb30c193b5569f",
-                                                             "path":  "emotes/Rat Dance 1.2.png",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Rat%20Dance%201.2.png"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "emotes_Sit Adorably.emotecraft",
-                                            "name":  "emotes/Sit Adorably.emotecraft",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  72538,
-                                                             "MD5":  "2d37f323574f7c8d192eb31d2fb809f4",
-                                                             "path":  "emotes/Sit Adorably.emotecraft",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Sit%20Adorably.emotecraft"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "emotes_Sobbing.emotecraft",
-                                            "name":  "emotes/Sobbing.emotecraft",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  59249,
-                                                             "MD5":  "aa2c0fc6dc519149dfab58bc3a23a531",
-                                                             "path":  "emotes/Sobbing.emotecraft",
-                                                             "url":  "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Sobbing.emotecraft"
-                                                         }
-                                        }
-                                    ]
-                    }
-                ]
+  "version": "1.0.0",
+  "servers": [
+    {
+      "id": "churworld",
+      "name": "ChurWorld",
+      "description": "ChurWorld Fabric Client",
+      "version": "1.0.0",
+      "address": "churworld.kr",
+      "minecraftVersion": "1.21.4",
+      "mainServer": true,
+      "autoconnect": true,
+      "javaOptions": {
+        "supported": ">=21",
+        "suggestedMajor": 21,
+        "ram": {
+          "recommended": 4096,
+          "minimum": 2048
+        }
+      },
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.17.2",
+          "name": "Fabric Loader",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1915305,
+            "MD5": "72dd698d701202d46303fc913cfcbf23",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/libraries/net/fabricmc/fabric-loader/0.17.2/fabric-loader-0.17.2.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.21.4-fabric-0.17.2",
+              "name": "Fabric VersionManifest",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2847,
+                "MD5": "61ad447777e0b52a91db37af1ff41ccf",
+                "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/versions/1.21.4-fabric-0.17.2/1.21.4-fabric-0.17.2.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.8",
+              "name": "org.ow2.asm:asm:9.8",
+              "type": "Library",
+              "artifact": {
+                "size": 126113,
+                "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
+                "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/libraries/org/ow2/asm/asm/9.8/asm-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.8",
+              "name": "org.ow2.asm:asm-analysis:9.8",
+              "type": "Library",
+              "artifact": {
+                "size": 35151,
+                "MD5": "3d63508405f5610fc2ea673ff5471553",
+                "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/libraries/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.8",
+              "name": "org.ow2.asm:asm-commons:9.8",
+              "type": "Library",
+              "artifact": {
+                "size": 73498,
+                "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
+                "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/libraries/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.8",
+              "name": "org.ow2.asm:asm-tree:9.8",
+              "type": "Library",
+              "artifact": {
+                "size": 51934,
+                "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
+                "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/libraries/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.8",
+              "name": "org.ow2.asm:asm-util:9.8",
+              "type": "Library",
+              "artifact": {
+                "size": 94559,
+                "MD5": "62498ef324bdab15f407d703f7d78d19",
+                "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/libraries/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.16.3+mixin.0.8.7",
+              "name": "net.fabricmc:sponge-mixin:0.16.3+mixin.0.8.7",
+              "type": "Library",
+              "artifact": {
+                "size": 1504156,
+                "MD5": "aa4a43d5b0e9abf4fcb57520ffeb0019",
+                "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/libraries/net/fabricmc/sponge-mixin/0.16.3%2Bmixin.0.8.7/sponge-mixin-0.16.3%2Bmixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.21.4",
+              "name": "net.fabricmc:intermediary:1.21.4",
+              "type": "Library",
+              "artifact": {
+                "size": 701826,
+                "MD5": "d0f4187a62328d4a95f3428434efbd48",
+                "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/libraries/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "churworld.mods:balm-fabric-1.21.4-21.4.41:1.0.0@jar",
+          "name": "balm-fabric-1.21.4-21.4.41",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 599615,
+            "MD5": "111978e3b35ab07a86bcb8bde78d6c1c",
+            "path": "balm-fabric-1.21.4-21.4.41.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/balm-fabric-1.21.4-21.4.41.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:churcamera-fabric-client-0.3.3:1.0.0@jar",
+          "name": "churcamera-fabric-client-0.3.3",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 172977,
+            "MD5": "06efc6966fb446c8c06d8f7b27858c30",
+            "path": "churcamera-fabric-client-0.3.3.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churcamera-fabric-client-0.3.3.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:churkeys-fabric-client-0.1.7-cream:1.0.0@jar",
+          "name": "churkeys-fabric-client-0.1.7-cream",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3167247,
+            "MD5": "4cc5f88abfd9c82db87bb04f518515f8",
+            "path": "churkeys-fabric-client-0.1.7-cream.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churkeys-fabric-client-0.1.7-cream.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:churuechoes-fabric-client-0.46.0:1.0.0@jar",
+          "name": "churuechoes-fabric-client-0.46.0",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4377664,
+            "MD5": "a1e4cb80b2367e307d00d1e7988c4583",
+            "path": "churuechoes-fabric-client-0.46.0.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churuechoes-fabric-client-0.46.0.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:churumenu-fabric-client-0.1.26:1.0.0@jar",
+          "name": "churumenu-fabric-client-0.1.26",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 17346464,
+            "MD5": "0f95d302c22e15212dfb1575dd50c7e8",
+            "path": "churumenu-fabric-client-0.1.26.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churumenu-fabric-client-0.1.26.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:churunyangi-fabric-client-0.1.25:1.0.0@jar",
+          "name": "churunyangi-fabric-client-0.1.25",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11167276,
+            "MD5": "3ccde379a88dd48bc9d1afd519adac05",
+            "path": "churunyangi-fabric-client-0.1.25.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churunyangi-fabric-client-0.1.25.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:churworld-korean-input-1.0.0:1.0.0@jar",
+          "name": "churworld-korean-input-1.0.0",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4519,
+            "MD5": "7b5f42b1f822cd45fa44f2786b3e314c",
+            "path": "churworld-korean-input-1.0.0.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churworld-korean-input-1.0.0.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:cloth-config-17.0.144-fabric:1.0.0@jar",
+          "name": "cloth-config-17.0.144-fabric",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1152857,
+            "MD5": "07b7d5bc15bdc7387cf8890d0c460b54",
+            "path": "cloth-config-17.0.144-fabric.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/cloth-config-17.0.144-fabric.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:defaultoptions-fabric-1.21.4-21.4.6:1.0.0@jar",
+          "name": "defaultoptions-fabric-1.21.4-21.4.6",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 98235,
+            "MD5": "9ed0bb66374791980aa017b8e2d2d240",
+            "path": "defaultoptions-fabric-1.21.4-21.4.6.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/defaultoptions-fabric-1.21.4-21.4.6.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:emotecraft-fabric-for-mc1.21.4-2.5.8:1.0.0@jar",
+          "name": "emotecraft-fabric-for-mc1.21.4-2.5.8",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1259819,
+            "MD5": "ecbcffd1aa9d83847e00da62fc45d9b3",
+            "path": "emotecraft-fabric-for-MC1.21.4-2.5.8.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/emotecraft-fabric-for-MC1.21.4-2.5.8.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:fabric-api-0.119.4-1.21.4:1.0.0@jar",
+          "name": "fabric-api-0.119.4-1.21.4",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2149128,
+            "MD5": "128a8d042180e7c92567342e21a21a6d",
+            "path": "fabric-api-0.119.4+1.21.4.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/fabric-api-0.119.4%2B1.21.4.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:hybridbuild-fabric-client-0.2.6:1.0.0@jar",
+          "name": "hybridbuild-fabric-client-0.2.6",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1847782,
+            "MD5": "c18f57bab2a4c162892a7fa15c39ca79",
+            "path": "hybridbuild-fabric-client-0.2.6.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridbuild-fabric-client-0.2.6.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:hybridcodi-fabric-client-0.1.20:1.0.0@jar",
+          "name": "hybridcodi-fabric-client-0.1.20",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 13632468,
+            "MD5": "d018efbbae1dbbc60f6db9841802786b",
+            "path": "hybridcodi-fabric-client-0.1.20.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/dc9a74ed42c9126b837922f6d9c36c4998fa8fbb/files/mods/hybridcodi-fabric-client-0.1.20.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:hybridevents-fabric-0.26.9:1.0.0@jar",
+          "name": "hybridevents-fabric-0.26.9",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12739754,
+            "MD5": "7a24ac70c0b849ce5afb8f81c2305c6d",
+            "path": "hybridevents-fabric-0.26.9.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridevents-fabric-0.26.9.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:hybridhud-fabric-client-1.2.34:1.0.0@jar",
+          "name": "hybridhud-fabric-client-1.2.34",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3946107,
+            "MD5": "2f61347728d7ab39bfba4df8425c7bc9",
+            "path": "hybridhud-fabric-client-1.2.34.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/hybridhud-fabric-client-1.2.34.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:iris-fabric-1.8.8-mc1.21.4:1.0.0@jar",
+          "name": "iris-fabric-1.8.8-mc1.21.4",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2682702,
+            "MD5": "59d373e4874efbcb8fb426bdefa588d9",
+            "path": "iris-fabric-1.8.8+mc1.21.4.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/iris-fabric-1.8.8%2Bmc1.21.4.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:koreanpatch-fabric-1.9.6-mc1.21.3:1.0.0@jar",
+          "name": "koreanpatch-fabric-1.9.6-mc1.21.3",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 655990,
+            "MD5": "c95329994b4cc793ec412462543c4f67",
+            "path": "koreanpatch-fabric-1.9.6+mc1.21.3.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/koreanpatch-fabric-1.9.6%2Bmc1.21.3.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:lifecore-fishing-client-0.2.51:1.0.0@jar",
+          "name": "lifecore-fishing-client-0.2.51",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 26300075,
+            "MD5": "9f62946a916f0a09a0997967f35904b1",
+            "path": "lifecore-fishing-client-0.2.51.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifecore-fishing-client-0.2.51.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:lifetower-fabric-client-0.4.73:1.0.0@jar",
+          "name": "lifetower-fabric-client-0.4.73",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 23751883,
+            "MD5": "e0f7d31bb262ad1450dbcfa1ba95648c",
+            "path": "lifetower-fabric-client-0.4.73.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/lifetower-fabric-client-0.4.73.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:modmenu-13.0.4:1.0.0@jar",
+          "name": "modmenu-13.0.4",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1050885,
+            "MD5": "79856b4ad839616c9b4318952ba44fd1",
+            "path": "modmenu-13.0.4.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/modmenu-13.0.4.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:placeholder-api-2.5.2-1.21.3:1.0.0@jar",
+          "name": "placeholder-api-2.5.2-1.21.3",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 237288,
+            "MD5": "80b2dea3d99621d2b76db30a0582665d",
+            "path": "placeholder-api-2.5.2+1.21.3.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/placeholder-api-2.5.2%2B1.21.3.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:sodium-fabric-0.6.13-mc1.21.4:1.0.0@jar",
+          "name": "sodium-fabric-0.6.13-mc1.21.4",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1306799,
+            "MD5": "28922a78d1876ee062e3265f10abcc46",
+            "path": "sodium-fabric-0.6.13+mc1.21.4.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/sodium-fabric-0.6.13%2Bmc1.21.4.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:talking-heads-1.1.3-1.21.4-fabric:1.0.0@jar",
+          "name": "talking-heads-1.1.3-1.21.4-fabric",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 289843,
+            "MD5": "9bc672e79e764898e9d54ae0b95a8432",
+            "path": "talking-heads-1.1.3+1.21.4+fabric.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/talking-heads-1.1.3%2B1.21.4%2Bfabric.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:voicechat-fabric-1.21.4-2.6.20:1.0.0@jar",
+          "name": "voicechat-fabric-1.21.4-2.6.20",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5369121,
+            "MD5": "52bf5af4d6bc570554ff2c88c05e5829",
+            "path": "voicechat-fabric-1.21.4-2.6.20.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/voicechat-fabric-1.21.4-2.6.20.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:xaerominimap-fabric-1.21.4-26.4.2:1.0.0@jar",
+          "name": "xaerominimap-fabric-1.21.4-26.4.2",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2221844,
+            "MD5": "4069e8a461c376f8f577150770e5b64f",
+            "path": "xaerominimap-fabric-1.21.4-26.4.2.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/xaerominimap-fabric-1.21.4-26.4.2.jar"
+          }
+        },
+        {
+          "id": "churworld.mods:xaeroworldmap-fabric-1.21.4-1.44.2:1.0.0@jar",
+          "name": "xaeroworldmap-fabric-1.21.4-1.44.2",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1442400,
+            "MD5": "5226a613f740dfa1693ea0a4badbb4b1",
+            "path": "xaeroworldmap-fabric-1.21.4-1.44.2.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/xaeroworldmap-fabric-1.21.4-1.44.2.jar"
+          }
+        },
+        {
+          "id": "config_churkeys-defaults.json",
+          "name": "config/churkeys-defaults.json",
+          "type": "File",
+          "artifact": {
+            "size": 464,
+            "MD5": "7da1ec80c8fad57b17e79aa5517856fa",
+            "path": "config/churkeys-defaults.json",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/churkeys-defaults.json"
+          }
+        },
+        {
+          "id": "config_defaultoptions_keybindings.txt",
+          "name": "config/defaultoptions/keybindings.txt",
+          "type": "File",
+          "artifact": {
+            "size": 54,
+            "MD5": "03602ac23bfa39d09ef93bceba907ded",
+            "path": "config/defaultoptions/keybindings.txt",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/defaultoptions/keybindings.txt"
+          }
+        },
+        {
+          "id": "config_defaultoptions_options.txt",
+          "name": "config/defaultoptions/options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 46,
+            "MD5": "0aea2becb189cd05924667ff75b742de",
+            "path": "config/defaultoptions/options.txt",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/defaultoptions/options.txt"
+          }
+        },
+        {
+          "id": "config_xaerohud.txt",
+          "name": "config/xaerohud.txt",
+          "type": "File",
+          "artifact": {
+            "size": 122,
+            "path": "config/xaerohud.txt",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/config/xaerohud.txt"
+          }
+        },
+        {
+          "id": "shaderpacks_Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+          "name": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+          "type": "File",
+          "artifact": {
+            "size": 1791406,
+            "MD5": "73eac5d017a268ea8175c2025c2863ad",
+            "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
+          }
+        },
+        {
+          "id": "shaderpacks_BSL_v10.1.8.zip",
+          "name": "shaderpacks/BSL_v10.1.8.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1134153,
+            "MD5": "d3344fcbaead234ddd9a45e18c05efd9",
+            "path": "shaderpacks/BSL_v10.1.8.zip",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/shaderpacks/BSL_v10.1.8.zip"
+          }
+        },
+        {
+          "id": "shaderpacks_ComplementaryReimagined_r5.9.3.zip",
+          "name": "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 553397,
+            "MD5": "54cd249cd1e95a4e19f0ea2cb4369e71",
+            "path": "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/shaderpacks/ComplementaryReimagined_r5.9.3.zip"
+          }
+        },
+        {
+          "id": "shaderpacks_MakeUp-UltraFast-9.5e.zip",
+          "name": "shaderpacks/MakeUp-UltraFast-9.5e.zip",
+          "type": "File",
+          "artifact": {
+            "size": 400417,
+            "MD5": "48a4e8a842c72790e00f5442cc519c48",
+            "path": "shaderpacks/MakeUp-UltraFast-9.5e.zip",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/shaderpacks/MakeUp-UltraFast-9.5e.zip"
+          }
+        },
+        {
+          "id": "shaderpacks_Solas Shader V3.7b.zip",
+          "name": "shaderpacks/Solas Shader V3.7b.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1252311,
+            "MD5": "1b7a11e3632789953f4577da3476c06f",
+            "path": "shaderpacks/Solas Shader V3.7b.zip",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/shaderpacks/Solas%20Shader%20V3.7b.zip"
+          }
+        },
+        {
+          "id": "emotes_Breakdance Flare.emotecraft",
+          "name": "emotes/Breakdance Flare.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 612911,
+            "MD5": "24dbc084220bb1bc9a365c4a30b4484b",
+            "path": "emotes/Breakdance Flare.emotecraft",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Breakdance%20Flare.emotecraft"
+          }
+        },
+        {
+          "id": "emotes_CaramellDansen.emotecraft",
+          "name": "emotes/CaramellDansen.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 59199,
+            "MD5": "328079633768a1bcfe1fe978222c8510",
+            "path": "emotes/CaramellDansen.emotecraft",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/CaramellDansen.emotecraft"
+          }
+        },
+        {
+          "id": "emotes_CaramellDansen.json",
+          "name": "emotes/CaramellDansen.json",
+          "type": "File",
+          "artifact": {
+            "size": 15582,
+            "MD5": "ea06dc04eaabbdaa8c180f5888ebaf68",
+            "path": "emotes/CaramellDansen.json",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/CaramellDansen.json"
+          }
+        },
+        {
+          "id": "emotes_CaramellDansen.png",
+          "name": "emotes/CaramellDansen.png",
+          "type": "File",
+          "artifact": {
+            "size": 57520,
+            "MD5": "afa3a7df630585aede608aa7c0efca4b",
+            "path": "emotes/CaramellDansen.png",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/CaramellDansen.png"
+          }
+        },
+        {
+          "id": "emotes_Cheer.emotecraft",
+          "name": "emotes/Cheer.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 52773,
+            "MD5": "8f6afccbde1bd57b4929a2cfd6b26995",
+            "path": "emotes/Cheer.emotecraft",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Cheer.emotecraft"
+          }
+        },
+        {
+          "id": "emotes_Cheer.json",
+          "name": "emotes/Cheer.json",
+          "type": "File",
+          "artifact": {
+            "size": 15582,
+            "MD5": "cebbac97c1ec85cff3ae8cfc7b7b0dd8",
+            "path": "emotes/Cheer.json",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Cheer.json"
+          }
+        },
+        {
+          "id": "emotes_Cheer.png",
+          "name": "emotes/Cheer.png",
+          "type": "File",
+          "artifact": {
+            "size": 51124,
+            "MD5": "57dac0702b8aa8a31eb063823d8ada42",
+            "path": "emotes/Cheer.png",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Cheer.png"
+          }
+        },
+        {
+          "id": "emotes_Cheering.emotecraft",
+          "name": "emotes/Cheering.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 63251,
+            "MD5": "e7afa9d4df40e9ddbd60f4cfe9fb23b9",
+            "path": "emotes/Cheering.emotecraft",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Cheering.emotecraft"
+          }
+        },
+        {
+          "id": "emotes_Cheering.json",
+          "name": "emotes/Cheering.json",
+          "type": "File",
+          "artifact": {
+            "size": 31277,
+            "MD5": "bb241c32ed0943407a571df03fc9ca75",
+            "path": "emotes/Cheering.json",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Cheering.json"
+          }
+        },
+        {
+          "id": "emotes_Cheering.png",
+          "name": "emotes/Cheering.png",
+          "type": "File",
+          "artifact": {
+            "size": 60477,
+            "MD5": "29f224d127b23068afa175394076ac3e",
+            "path": "emotes/Cheering.png",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Cheering.png"
+          }
+        },
+        {
+          "id": "emotes_Chillin' out.emotecraft",
+          "name": "emotes/Chillin' out.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 82915,
+            "MD5": "68224981189da2086ec92e25311d4246",
+            "path": "emotes/Chillin' out.emotecraft",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Chillin'%20out.emotecraft"
+          }
+        },
+        {
+          "id": "emotes_Dylan dance (Dance).emotecraft",
+          "name": "emotes/Dylan dance (Dance).emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 96650,
+            "MD5": "9859992cd668844907d0fc4ff25e128c",
+            "path": "emotes/Dylan dance (Dance).emotecraft",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Dylan%20dance%20(Dance).emotecraft"
+          }
+        },
+        {
+          "id": "emotes_Hell Destroyer (Dance) (Multiverse) (Helltaker).emotecraft",
+          "name": "emotes/Hell Destroyer (Dance) (Multiverse) (Helltaker).emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 83308,
+            "MD5": "e733541440152efca6201a9789fb22cc",
+            "path": "emotes/Hell Destroyer (Dance) (Multiverse) (Helltaker).emotecraft",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Hell%20Destroyer%20(Dance)%20(Multiverse)%20(Helltaker).emotecraft"
+          }
+        },
+        {
+          "id": "emotes_Rat Dance 1.2.emotecraft",
+          "name": "emotes/Rat Dance 1.2.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 76127,
+            "MD5": "1010b1795ff3c4ebdae4b7e87681a220",
+            "path": "emotes/Rat Dance 1.2.emotecraft",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Rat%20Dance%201.2.emotecraft"
+          }
+        },
+        {
+          "id": "emotes_Rat Dance 1.2.json",
+          "name": "emotes/Rat Dance 1.2.json",
+          "type": "File",
+          "artifact": {
+            "size": 52491,
+            "MD5": "84638bb575d9b40a4ebc654d08ef9ba1",
+            "path": "emotes/Rat Dance 1.2.json",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Rat%20Dance%201.2.json"
+          }
+        },
+        {
+          "id": "emotes_Rat Dance 1.2.png",
+          "name": "emotes/Rat Dance 1.2.png",
+          "type": "File",
+          "artifact": {
+            "size": 71805,
+            "MD5": "7878779b596812f879bb30c193b5569f",
+            "path": "emotes/Rat Dance 1.2.png",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Rat%20Dance%201.2.png"
+          }
+        },
+        {
+          "id": "emotes_Sit Adorably.emotecraft",
+          "name": "emotes/Sit Adorably.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 72538,
+            "MD5": "2d37f323574f7c8d192eb31d2fb809f4",
+            "path": "emotes/Sit Adorably.emotecraft",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Sit%20Adorably.emotecraft"
+          }
+        },
+        {
+          "id": "emotes_Sobbing.emotecraft",
+          "name": "emotes/Sobbing.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 59249,
+            "MD5": "aa2c0fc6dc519149dfab58bc3a23a531",
+            "path": "emotes/Sobbing.emotecraft",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/emotes/Sobbing.emotecraft"
+          }
+        }
+      ]
+    }
+  ]
 }
