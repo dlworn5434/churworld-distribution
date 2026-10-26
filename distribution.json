@@ -694,17 +694,17 @@
           }
         },
         {
-          "id": "churworld.mods:churguard-0.1.6:1.0.0@jar",
+          "id": "churworld.mods:churguard-0.1.7:1.0.0@jar",
           "name": "ChurGuard - administrator reports",
           "type": "FabricMod",
           "required": {
             "value": true
           },
           "artifact": {
-            "path": "churguard-0.1.6.jar",
-            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/9440b0a03fe865de1699c13e27ab4452301baf1b/files/mods/churguard-0.1.6.jar",
-            "size": 62457,
-            "MD5": "3cf8fba8c626fa9bea26f4818f992fce"
+            "path": "churguard-0.1.7.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/39278f72946fc35b128655c2abfcb4a221979f06/files/mods/churguard-0.1.7.jar",
+            "size": 62458,
+            "MD5": "9c44ad8832afe9d41eadc8e891af6bbc"
           }
         }
       ]
