@@ -167,14 +167,14 @@
           }
         },
         {
-          "id": "churworld.mods:churunyangi-fabric-client-0.1.25:1.0.0@jar",
-          "name": "churunyangi-fabric-client-0.1.25",
+          "id": "churworld.mods:churunyangi-fabric-client-0.1.26:1.0.0@jar",
+          "name": "churunyangi-fabric-client-0.1.26",
           "type": "FabricMod",
           "artifact": {
-            "size": 11167276,
-            "MD5": "3ccde379a88dd48bc9d1afd519adac05",
-            "path": "churunyangi-fabric-client-0.1.25.jar",
-            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churunyangi-fabric-client-0.1.25.jar"
+            "size": 11167450,
+            "MD5": "510acf03c8134705b455e9daec3daa1d",
+            "path": "churunyangi-fabric-client-0.1.26.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/12e457725ff8cae8548ba4a45387d952cc2fbeca/files/mods/churunyangi-fabric-client-0.1.26.jar"
           }
         },
         {
