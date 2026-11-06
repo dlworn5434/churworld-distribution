@@ -123,14 +123,14 @@
           }
         },
         {
-          "id": "churworld.mods:churcamera-fabric-client-0.3.3:1.0.0@jar",
-          "name": "churcamera-fabric-client-0.3.3",
+          "id": "churworld.mods:churcamera-fabric-client-0.3.4:1.0.0@jar",
+          "name": "churcamera-fabric-client-0.3.4",
           "type": "FabricMod",
           "artifact": {
-            "size": 172977,
-            "MD5": "06efc6966fb446c8c06d8f7b27858c30",
-            "path": "churcamera-fabric-client-0.3.3.jar",
-            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/main/files/mods/churcamera-fabric-client-0.3.3.jar"
+            "size": 169846,
+            "MD5": "ff6badbee91ff9bbe971a59fd133eec3",
+            "path": "churcamera-fabric-client-0.3.4.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/ae9dad171cf279dea411ea97860caa7afb62f0d0/files/mods/churcamera-fabric-client-0.3.4.jar"
           }
         },
         {
