@@ -706,6 +706,17 @@
             "size": 82397,
             "MD5": "6df3faba5fb9dcb0cc5dffc3661e3200"
           }
+        },
+        {
+          "id": "churworld.mods:churmarble-fabric-client-0.6.14:1.0.0@jar",
+          "name": "churmarble-fabric-client-0.6.14",
+          "type": "FabricMod",
+          "artifact": {
+            "path": "churmarble-fabric-client-0.6.14.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/03c4a0f4c02cc0c4eb85c9923c74ca33f5f4a4fa/files/mods/churmarble-fabric-client-0.6.14.jar",
+            "size": 27051883,
+            "MD5": "55e427a77acd16dc4d0a4324aea1fb13"
+          }
         }
       ]
     }
