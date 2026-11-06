@@ -717,6 +717,20 @@
             "size": 27049293,
             "MD5": "fab37a16af10ae0a866162bc08f524b2"
           }
+        },
+        {
+          "id": "churworld.mods:churharbor-client-0.2.8:1.0.0@jar",
+          "name": "churharbor-client-0.2.8",
+          "type": "FabricMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "path": "churharbor-client-0.2.8.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/9d2e526a52db0ab381c888b0d672b65647246099/files/mods/churharbor-client-0.2.8.jar",
+            "size": 6679315,
+            "MD5": "92415ad90ffa15ece2b099af18aac5c5"
+          }
         }
       ]
     }
