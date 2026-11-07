@@ -708,14 +708,14 @@
           }
         },
         {
-          "id": "churworld.mods:churmarble-fabric-client-0.6.18:1.0.0@jar",
-          "name": "churmarble-fabric-client-0.6.18",
+          "id": "churworld.mods:churmarble-fabric-client-0.6.19:1.0.0@jar",
+          "name": "churmarble-fabric-client-0.6.19",
           "type": "FabricMod",
           "artifact": {
-            "path": "churmarble-fabric-client-0.6.18.jar",
-            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/9e7e51da1b6caba46f92d29a3de00bc6e53c0dd6/files/mods/churmarble-fabric-client-0.6.18.jar",
-            "size": 27354302,
-            "MD5": "91853c5f9167086140d4b350e637f0a2"
+            "path": "churmarble-fabric-client-0.6.19.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/6ddc8a9575f61e4df4a351fed1bfd0acc0b4b362/files/mods/churmarble-fabric-client-0.6.19.jar",
+            "size": 27590543,
+            "MD5": "1214aa67f70e84f10845f968f1442df6"
           }
         },
         {
