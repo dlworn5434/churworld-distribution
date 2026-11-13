@@ -731,6 +731,20 @@
             "size": 9228772,
             "MD5": "9fdee18c3b10b968115f23763df703bb"
           }
+        },
+        {
+          "id": "churworld.mods:churu-clear-glass-client-0.1.0:1.0.0@jar",
+          "name": "churu-clear-glass-client-0.1.0",
+          "type": "FabricMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "path": "churu-clear-glass-client-0.1.0.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/4fd22b7d6111f7054526325ca0708e348fc2232b/files/mods/churu-clear-glass-client-0.1.0.jar",
+            "size": 10814,
+            "MD5": "0d8b39c6bcc16e7e85cab945c6e38596"
+          }
         }
       ]
     }
