@@ -244,14 +244,14 @@
           }
         },
         {
-          "id": "churworld.mods:hybridcodi-fabric-client-0.1.24:1.0.0@jar",
-          "name": "hybridcodi-fabric-client-0.1.24",
+          "id": "churworld.mods:hybridcodi-fabric-client-0.1.25:1.0.0@jar",
+          "name": "hybridcodi-fabric-client-0.1.25",
           "type": "FabricMod",
           "artifact": {
-            "size": 13765336,
-            "MD5": "a4dde9474af485bd6ceca5b3dd4d0ba6",
-            "path": "hybridcodi-fabric-client-0.1.24.jar",
-            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/b3ba609162860cadafe7dcf73ea403eaf74bb07c/files/mods/hybridcodi-fabric-client-0.1.24.jar"
+            "size": 13821235,
+            "MD5": "c3e07a6f4cba79162c9dc7ac6e045e9b",
+            "path": "hybridcodi-fabric-client-0.1.25.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/1273551678a11152e6fe3f8d9bf73d1fb13b0230/files/mods/hybridcodi-fabric-client-0.1.25.jar"
           }
         },
         {
