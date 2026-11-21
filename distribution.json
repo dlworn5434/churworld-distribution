@@ -747,17 +747,17 @@
           }
         },
         {
-          "id": "churworld.mods:churusquad-client-1.5.14:1.0.0@jar",
-          "name": "churusquad-client-1.5.14",
+          "id": "churworld.mods:churusquad-client-1.6.0:1.0.0@jar",
+          "name": "churusquad-client-1.6.0",
           "type": "FabricMod",
           "required": {
             "value": true
           },
           "artifact": {
-            "path": "churusquad-client-1.5.14.jar",
-            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/f6df841734ef6cb996477b4e0f3a746db8757890/files/mods/churusquad-client-1.5.14.jar",
-            "size": 8761941,
-            "MD5": "3bd3ff2544c0afe8a0d632355e34b46f"
+            "path": "churusquad-client-1.6.0.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/1b8321b7be94c07026826bdb915e21922f722153/files/mods/churusquad-client-1.6.0.jar",
+            "size": 11412751,
+            "MD5": "cc5b0755cf4418c021f49b8a2e7e1c77"
           }
         }
       ]
