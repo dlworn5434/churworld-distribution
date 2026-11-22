@@ -719,17 +719,17 @@
           }
         },
         {
-          "id": "churworld.mods:churharbor-client-0.2.25:1.0.0@jar",
-          "name": "churharbor-client-0.2.25",
+          "id": "churworld.mods:churharbor-client-0.2.26:1.0.0@jar",
+          "name": "churharbor-client-0.2.26",
           "type": "FabricMod",
           "required": {
             "value": true
           },
           "artifact": {
-            "path": "churharbor-client-0.2.25.jar",
-            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/02667a5ce6bcae19214a8c7fe5a650ac43e6f7bf/files/mods/churharbor-client-0.2.25.jar",
-            "size": 9606362,
-            "MD5": "ba9cdf2710da9c2274000fc5f98889e5"
+            "path": "churharbor-client-0.2.26.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/1593d081c840b8d6d8252d28f3a39e613d515dd9/files/mods/churharbor-client-0.2.26.jar",
+            "size": 9608578,
+            "MD5": "3710012f6197eecdd22c4accda4ff977"
           }
         },
         {
@@ -772,6 +772,17 @@
             "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/d4b2925e77be1336451edb82760c864e5d857e7e/files/mods/churu-instruments-client-0.1.3.jar",
             "size": 1116303,
             "MD5": "d8742f1a3171db76f1fb43b3e144137f"
+          }
+        },
+        {
+          "id": "churworld.mods:churworkshop-client-1.0.0:1.0.0@jar",
+          "name": "churworkshop-client-1.0.0",
+          "type": "FabricMod",
+          "artifact": {
+            "path": "churworkshop-client-1.0.0.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/1593d081c840b8d6d8252d28f3a39e613d515dd9/files/mods/churworkshop-client-1.0.0.jar",
+            "size": 22480,
+            "MD5": "2578dfcd09e3828dc6d981cec1bc639b"
           }
         }
       ]
