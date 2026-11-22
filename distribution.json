@@ -719,17 +719,17 @@
           }
         },
         {
-          "id": "churworld.mods:churharbor-client-0.2.26:1.0.0@jar",
-          "name": "churharbor-client-0.2.26",
+          "id": "churworld.mods:churharbor-client-0.2.27:1.0.0@jar",
+          "name": "churharbor-client-0.2.27",
           "type": "FabricMod",
           "required": {
             "value": true
           },
           "artifact": {
-            "path": "churharbor-client-0.2.26.jar",
-            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/1593d081c840b8d6d8252d28f3a39e613d515dd9/files/mods/churharbor-client-0.2.26.jar",
-            "size": 9608578,
-            "MD5": "3710012f6197eecdd22c4accda4ff977"
+            "path": "churharbor-client-0.2.27.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/95e5460ff03f50fe5de44c038366311558f3a21b/files/mods/churharbor-client-0.2.27.jar",
+            "size": 9612317,
+            "MD5": "b7e6d3cb2b5ab73135f4871f7a86872e"
           }
         },
         {
@@ -775,14 +775,14 @@
           }
         },
         {
-          "id": "churworld.mods:churworkshop-client-1.0.0:1.0.0@jar",
-          "name": "churworkshop-client-1.0.0",
+          "id": "churworld.mods:churworkshop-client-1.0.1:1.0.0@jar",
+          "name": "churworkshop-client-1.0.1",
           "type": "FabricMod",
           "artifact": {
-            "path": "churworkshop-client-1.0.0.jar",
-            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/1593d081c840b8d6d8252d28f3a39e613d515dd9/files/mods/churworkshop-client-1.0.0.jar",
-            "size": 22480,
-            "MD5": "2578dfcd09e3828dc6d981cec1bc639b"
+            "path": "churworkshop-client-1.0.1.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/95e5460ff03f50fe5de44c038366311558f3a21b/files/mods/churworkshop-client-1.0.1.jar",
+            "size": 31023,
+            "MD5": "b965f45724ade45374bc920836372328"
           }
         }
       ]
