@@ -719,17 +719,17 @@
           }
         },
         {
-          "id": "churworld.mods:churharbor-client-0.2.27:1.0.0@jar",
-          "name": "churharbor-client-0.2.27",
+          "id": "churworld.mods:churharbor-client-0.2.28:1.0.0@jar",
+          "name": "churharbor-client-0.2.28",
           "type": "FabricMod",
           "required": {
             "value": true
           },
           "artifact": {
-            "path": "churharbor-client-0.2.27.jar",
-            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/95e5460ff03f50fe5de44c038366311558f3a21b/files/mods/churharbor-client-0.2.27.jar",
-            "size": 9612317,
-            "MD5": "b7e6d3cb2b5ab73135f4871f7a86872e"
+            "path": "churharbor-client-0.2.28.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/8b9f96b205a424d4a92288389ef864d198420c37/files/mods/churharbor-client-0.2.28.jar",
+            "size": 9618471,
+            "MD5": "4402824f3c672d9bca74537be60934fc"
           }
         },
         {
