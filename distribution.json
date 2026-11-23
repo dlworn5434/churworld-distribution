@@ -775,14 +775,14 @@
           }
         },
         {
-          "id": "churworld.mods:churworkshop-client-1.0.2:1.0.0@jar",
-          "name": "churworkshop-client-1.0.2",
+          "id": "churworld.mods:churworkshop-client-1.0.3:1.0.0@jar",
+          "name": "churworkshop-client-1.0.3",
           "type": "FabricMod",
           "artifact": {
-            "path": "churworkshop-client-1.0.2.jar",
-            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/ceb58e5c655284b13d89a408498d05b99afcf647/files/mods/churworkshop-client-1.0.2.jar",
-            "size": 38933,
-            "MD5": "3279bdf4a9c84b5d7feafe1e42a4696b"
+            "path": "churworkshop-client-1.0.3.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/b3c5973c006632862e2e3168a4c3a1964b771fa9/files/mods/churworkshop-client-1.0.3.jar",
+            "size": 179823,
+            "MD5": "fcf6813573acc584b2bc1d716ffb68cd"
           }
         }
       ]
