@@ -784,6 +784,34 @@
             "size": 179823,
             "MD5": "fcf6813573acc584b2bc1d716ffb68cd"
           }
+        },
+        {
+          "id": "churworld.mods:churrpg-colossus-client-0.3.2:1.0.0@jar",
+          "name": "churrpg-colossus-client-0.3.2",
+          "type": "FabricMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "path": "churrpg-colossus-client-0.3.2.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/34864bc02d2b5cdc91e3ae090123432c6945ae3c/files/mods/churrpg-colossus-client-0.3.2.jar",
+            "size": 7539250,
+            "MD5": "cb8bc2e9b71a14aaf609f13cd047eb61"
+          }
+        },
+        {
+          "id": "churworld.mods:churrpg-private-arena-pack-0.1.4:1.0.0@jar",
+          "name": "churrpg-private-arena-pack-0.1.4",
+          "type": "FabricMod",
+          "required": {
+            "value": true
+          },
+          "artifact": {
+            "path": "churrpg-private-arena-pack-0.1.4.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/34864bc02d2b5cdc91e3ae090123432c6945ae3c/files/mods/churrpg-private-arena-pack-0.1.4.jar",
+            "size": 64746,
+            "MD5": "cabe96d9928c5d75d205df440010aac3"
+          }
         }
       ]
     }
