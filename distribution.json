@@ -800,17 +800,17 @@
           }
         },
         {
-          "id": "churworld.mods:churrpg-private-arena-pack-0.1.5:1.0.0@jar",
-          "name": "churrpg-private-arena-pack-0.1.5",
+          "id": "churworld.mods:churrpg-private-arena-pack-0.1.6:1.0.0@jar",
+          "name": "churrpg-private-arena-pack-0.1.6",
           "type": "FabricMod",
           "required": {
             "value": true
           },
           "artifact": {
-            "path": "churrpg-private-arena-pack-0.1.5.jar",
-            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/e437130011e1bfd1ad99c18da859a033fe746e8d/files/mods/churrpg-private-arena-pack-0.1.5.jar",
-            "size": 125906,
-            "MD5": "8be91e267873053c0746ef26986a5914"
+            "path": "churrpg-private-arena-pack-0.1.6.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/25bf2a24dd6f6d56d92d827a1b2f9d233e2d0c45/files/mods/churrpg-private-arena-pack-0.1.6.jar",
+            "size": 837730,
+            "MD5": "0fd4a464dae13ed05977f29d6a966e78"
           }
         }
       ]
