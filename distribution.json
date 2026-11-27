@@ -761,17 +761,17 @@
           }
         },
         {
-          "id": "churworld.mods:churu-instruments-client-0.1.4:1.0.0@jar",
-          "name": "churu-instruments-client-0.1.4",
+          "id": "churworld.mods:churu-instruments-client-0.1.5:1.0.0@jar",
+          "name": "churu-instruments-client-0.1.5",
           "type": "FabricMod",
           "required": {
             "value": true
           },
           "artifact": {
-            "path": "churu-instruments-client-0.1.4.jar",
-            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/4079cf318635fd9267ec6eb41386ee227b445f57/files/mods/churu-instruments-client-0.1.4.jar",
-            "size": 1137739,
-            "MD5": "5b60dc83befcbbfd0d58412b99beff2b"
+            "path": "churu-instruments-client-0.1.5.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/a93b95390d8651e541c0e458de77f0fc35a5a03f/files/mods/churu-instruments-client-0.1.5.jar",
+            "size": 1140959,
+            "MD5": "15043ced55ab7f4ab38b39630d8152fc"
           }
         },
         {
