@@ -786,17 +786,17 @@
           }
         },
         {
-          "id": "churworld.mods:churrpg-colossus-client-0.5.0:1.0.0@jar",
-          "name": "churrpg-colossus-client-0.5.0",
+          "id": "churworld.mods:churrpg-colossus-client-0.11.0:1.0.0@jar",
+          "name": "churrpg-colossus-client-0.11.0",
           "type": "FabricMod",
           "required": {
             "value": true
           },
           "artifact": {
-            "path": "churrpg-colossus-client-0.5.0.jar",
-            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/bc7cef0b01601880d022d9b6174152c9dc6376eb/files/mods/churrpg-colossus-client-0.5.0.jar",
-            "size": 10608076,
-            "MD5": "be94b325fedba08494352b84f956b40c"
+            "path": "churrpg-colossus-client-0.11.0.jar",
+            "url": "https://raw.githubusercontent.com/dlworn5434/churworld-distribution/834b2b4691dfbaa760ea7c824c56ef30df30071d/files/mods/churrpg-colossus-client-0.11.0.jar",
+            "size": 17941511,
+            "MD5": "9196978de00b0e558f483b631a08ba06"
           }
         },
         {
